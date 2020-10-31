@@ -4,6 +4,6 @@
     Lisa Weinstein,
     Katie Young,
     Manisha Shetti,
-    Liliana Ilut,
+    Liliana Ilut
 
 ![Graffiti](https://media.giphy.com/media/MdpRSfh0TJfW17rnE4/giphy.gif)
