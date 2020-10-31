@@ -1,4 +1,4 @@
-### women-in-power
+### Women-in-Power
  Team Members:
     Corrine Ptacek,
     Lisa Weinstein,
