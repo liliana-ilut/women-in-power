@@ -88,3 +88,5 @@ indicator_name varchar,
 "2019" decimal
 );
 select * from parliament;
+
+
