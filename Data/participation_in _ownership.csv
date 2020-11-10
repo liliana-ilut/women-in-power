@@ -1,265 +1,182 @@
-,country,country_code,new_code,latitide,longitude,indicator_name,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
-0,Aruba,ABW,AW,12.52111,-69.968338,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-1,Afghanistan,AFG,AF,33.93911,67.709953,participation in ownership,0,0,0,0,0,2.2,0,0,0,0,0,0
-2,Angola,AGO,AO,-11.202692,17.873887,participation in ownership,0,56.6,0,0,0,0,0,0,0,0,0,0
-3,Albania,ALB,AL,41.153332,20.168331,participation in ownership,0,0,0,0,13.1,0,0,0,0,0,20.7,0
-4,Andorra,AND,AD,42.546245,1.601554,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-5,Arab World,ARB,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,14.43636364,0
-6,United Arab Emirates,ARE,AE,23.424076,53.847818,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-7,Argentina,ARG,AR,-38.416097,-63.616672,participation in ownership,0,38,0,0,0,0,0,0,57.8,0,0,0
-8,Armenia,ARM,AM,40.069099,45.038189,participation in ownership,31.8,0,0,0,24.4,0,0,0,0,0,0,27.4
-9,American Samoa,ASM,AS,-14.270972,-170.132217,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-10,Antigua and Barbuda,ATG,AG,17.060816,-61.796428,participation in ownership,0,21.3,0,0,0,0,0,0,0,0,0,0
-11,Australia,AUS,AU,-25.274398,133.775136,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-12,Austria,AUT,AT,47.516231,14.550072,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-13,Azerbaijan,AZE,AZ,40.143105,47.576927,participation in ownership,10.8,0,0,0,4,0,0,0,0,0,15.3,0
-14,Burundi,BDI,BI,-3.373056,29.918886,participation in ownership,0,0,0,0,0,44,0,0,0,0,0,0
-15,Belgium,BEL,BE,50.503887,4.469936,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-16,Benin,BEN,BJ,9.30769,2.315834,participation in ownership,45.4,0,0,0,0,0,0,36.7,0,0,0,0
-17,Burkina Faso,BFA,BF,12.238333,-1.561593,participation in ownership,19.2,0,0,0,0,0,0,0,0,0,0,0
-18,Bangladesh,BGD,BD,23.684994,90.356331,participation in ownership,0,0,0,0,12.7,0,0,0,0,0,0,0
-19,Bulgaria,BGR,BG,42.733883,25.48583,participation in ownership,33.9,0,0,0,41.5,0,0,0,0,0,41.7,0
-20,Bahrain,BHR,BH,25.930414,50.637772,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-21,"Bahamas, The",BHS,#N/A,#N/A,#N/A,participation in ownership,0,58.3,0,0,0,0,0,0,0,0,0,0
-22,Bosnia and Herzegovina,BIH,BA,43.915886,17.679076,participation in ownership,32.8,0,0,0,22.8,0,0,0,0,0,24.9,0
-23,Belarus,BLR,BY,53.709807,27.953389,participation in ownership,0,0,0,0,46.2,0,0,0,0,45.5,0,0
-24,Belize,BLZ,BZ,17.189877,-88.49765,participation in ownership,0,30.4,0,0,0,0,0,0,0,0,0,0
-25,Bermuda,BMU,BM,32.321384,-64.75737,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-26,Bolivia,BOL,BO,-16.290154,-63.588653,participation in ownership,0,41.3,0,0,0,0,0,0,68.6,0,0,0
-27,Brazil,BRA,BR,-14.235004,-51.92528,participation in ownership,50.2,0,0,0,0,0,0,0,0,0,0,0
-28,Barbados,BRB,BB,13.193887,-59.543198,participation in ownership,0,43.5,0,0,0,0,0,0,0,0,0,0
-29,Brunei Darussalam,BRN,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-30,Bhutan,BTN,BT,27.514162,90.433601,participation in ownership,31.3,0,0,0,0,0,43.3,0,0,0,0,0
-31,Botswana,BWA,BW,-22.328474,24.684866,participation in ownership,0,55.3,0,0,0,0,0,0,0,0,0,0
-32,Central African Republic,CAF,CF,6.611111,20.939444,participation in ownership,0,0,53.3,0,0,0,0,0,0,0,0,0
-33,Canada,CAN,CA,56.130366,-106.346771,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-34,Central Europe and the Baltics,CEB,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,37.52727273,0
-35,Switzerland,CHE,CH,46.818188,8.227512,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-36,Channel Islands,CHI,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-37,Chile,CHL,CL,-35.675147,-71.542969,participation in ownership,0,29.6,0,0,0,0,0,0,0,0,0,0
-38,China,CHN,CN,35.86166,104.195397,participation in ownership,0,0,0,64.2,0,0,0,0,0,0,0,0
-39,Cote d'Ivoire,CIV,#N/A,#N/A,#N/A,participation in ownership,61.9,0,0,0,0,0,0,24.4,0,0,0,0
-40,Cameroon,CMR,CM,7.369722,12.354722,participation in ownership,15.7,0,0,0,0,0,0,39.7,0,0,0,0
-41,"Congo, Dem. Rep.",COD,#N/A,#N/A,#N/A,participation in ownership,0,38.9,0,0,15.1,0,0,0,0,0,0,0
-42,"Congo, Rep.",COG,#N/A,#N/A,#N/A,participation in ownership,31.8,0,0,0,0,0,0,0,0,0,0,0
-43,Colombia,COL,CO,4.570868,-74.297333,participation in ownership,0,35.3,0,0,0,0,0,0,66.9,0,0,0
-44,Comoros,COM,KM,-11.875001,43.872219,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-45,Cabo Verde,CPV,#N/A,#N/A,#N/A,participation in ownership,33.1,0,0,0,0,0,0,0,0,0,0,0
-46,Costa Rica,CRI,CR,9.748917,-83.753428,participation in ownership,0,43.5,0,0,0,0,0,0,0,0,0,0
-47,Caribbean small states,CSS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,45.53846154,0
-48,Cuba,CUB,CU,21.521757,-77.781167,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-49,Curacao,CUW,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-50,Cayman Islands,CYM,KY,19.513469,-80.566956,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-51,Cyprus,CYP,CY,35.126413,33.429859,participation in ownership,0,0,0,0,0,0,0,0,0,0,45.1,0
-52,Czech Republic,CZE,CZ,49.817492,15.472962,participation in ownership,25,0,0,0,30.4,0,0,0,0,0,29.9,0
-53,Germany,DEU,DE,51.165691,10.451526,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-54,Djibouti,DJI,DJ,11.825138,42.590275,participation in ownership,0,0,0,0,22.3,0,0,0,0,0,0,0
-55,Dominica,DMA,DM,15.414999,-61.370976,participation in ownership,0,41,0,0,0,0,0,0,0,0,0,0
-56,Denmark,DNK,DK,56.26392,9.501785,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-57,Dominican Republic,DOM,DO,18.735693,-70.162651,participation in ownership,0,30,0,0,0,0,0,32.2,0,0,0,0
-58,Algeria,DZA,DZ,28.033886,1.659626,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-59,East Asia & Pacific (excluding high income),EAP,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,47.4,0
-60,Early-demographic dividend,EAR,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,35.00222222,0
-61,East Asia & Pacific,EAS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,47.4,0
-62,Europe & Central Asia (excluding high income),ECA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,28.15263158,0
-63,Europe & Central Asia,ECS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,32.68529412,0
-64,Ecuador,ECU,EC,-1.831239,-78.183406,participation in ownership,0,24.1,0,0,0,0,0,0,70.4,0,0,0
-65,"Egypt, Arab Rep.",EGY,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,16.1,0,0,17.8,0,0,0,5.2
-66,Euro area,EMU,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,38.7,0
-67,Eritrea,ERI,ER,15.179384,39.782334,participation in ownership,4.2,0,0,0,0,0,0,0,0,0,0,0
-68,Spain,ESP,ES,40.463667,-3.74922,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-69,Estonia,EST,EE,58.595272,25.013607,participation in ownership,36.3,0,0,0,38.3,0,0,0,0,0,35.5,0
-70,Ethiopia,ETH,ET,9.145,40.489673,participation in ownership,0,0,35.3,0,0,0,36.2,0,0,0,0,0
-71,European Union,EUU,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,39.06470588,0
-72,Fragile and conflict affected situations,FCS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,25.60384615,0
-73,Finland,FIN,FI,61.92411,25.748151,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-74,Fiji,FJI,FJ,-16.578193,179.414413,participation in ownership,49.1,0,0,0,0,0,0,0,0,0,0,0
-75,France,FRA,FR,46.227638,2.213749,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-76,Faroe Islands,FRO,FO,61.892635,-6.911806,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-77,"Micronesia, Fed. Sts.",FSM,#N/A,#N/A,#N/A,participation in ownership,86.8,0,0,0,0,0,0,0,0,0,0,0
-78,Gabon,GAB,GA,-0.803689,11.609444,participation in ownership,33.1,0,0,0,0,0,0,0,0,0,0,0
-79,United Kingdom,GBR,GB,55.378051,-3.435973,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-80,Georgia,GEO,GE,42.315407,43.356892,participation in ownership,0,0,0,0,36.1,0,0,0,0,0,22.4,0
-81,Ghana,GHA,GH,7.946527,-1.023194,participation in ownership,0,0,0,0,31.6,0,0,0,0,0,0,0
-82,Gibraltar,GIB,GI,36.137741,-5.345374,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-83,Guinea,GIN,GN,9.945587,-9.696645,participation in ownership,0,0,0,0,0,0,0,9,0,0,0,0
-84,"Gambia, The",GMB,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,16.8,0,0
-85,Guinea-Bissau,GNB,GW,11.803749,-15.180413,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-86,Equatorial Guinea,GNQ,GQ,1.650801,10.267895,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-87,Greece,GRC,GR,39.074208,21.824312,participation in ownership,0,0,0,0,0,0,0,0,0,45.9,0,0
-88,Grenada,GRD,GD,12.262776,-61.604171,participation in ownership,0,57.3,0,0,0,0,0,0,0,0,0,0
-89,Greenland,GRL,GL,71.706936,-42.604303,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-90,Guatemala,GTM,GT,15.783471,-90.230759,participation in ownership,0,44.2,0,0,0,0,0,0,31.5,0,0,0
-91,Guam,GUM,GU,13.444304,144.793731,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-92,Guyana,GUY,GY,4.860416,-58.93018,participation in ownership,0,58.3,0,0,0,0,0,0,0,0,0,0
-93,High income,HIC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,38.68,0
-94,"Hong Kong SAR, China",HKG,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-95,Honduras,HND,HN,15.199999,-86.241905,participation in ownership,0,43.3,0,0,0,0,0,54.7,0,0,0,0
-96,Heavily indebted poor countries (HIPC),HPC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,29.49032258,0
-97,Croatia,HRV,HR,45.1,15.2,participation in ownership,0,0,0,0,36.3,0,0,0,0,0,31.7,0
-98,Haiti,HTI,HT,18.971187,-72.285215,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-99,Hungary,HUN,HU,47.162494,19.503304,participation in ownership,42.4,0,0,0,48.7,0,0,0,0,0,51.9,0
-100,IBRD only,IBD,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,36.32586207,0
-101,IDA & IBRD total,IBT,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,33.81946903,0
-102,IDA total,IDA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,31.17636364,0
-103,IDA blend,IDB,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,41.74166667,0
-104,Indonesia,IDN,ID,-0.789275,113.921327,participation in ownership,42.8,0,0,0,0,0,22.1,0,0,0,0,0
-105,IDA only,IDX,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,28.22790698,0
-106,Isle of Man,IMN,IM,54.236107,-4.548056,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-107,India,IND,IN,20.593684,78.96288,participation in ownership,0,0,0,0,0,10.7,0,0,0,0,0,0
-108,Not classified,INX,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-109,Ireland,IRL,IE,53.41291,-8.24389,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-110,"Iran, Islamic Rep.",IRN,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-111,Iraq,IRQ,IQ,33.223191,43.679291,participation in ownership,0,0,6.8,0,0,0,0,0,0,0,0,0
-112,Iceland,ISL,IS,64.963051,-19.020835,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-113,Israel,ISR,IL,31.046051,34.851612,participation in ownership,0,0,0,0,27.3,0,0,0,0,0,0,0
-114,Italy,ITA,IT,41.87194,12.56738,participation in ownership,0,0,0,0,0,0,0,0,0,0,24,0
-115,Jamaica,JAM,JM,18.109581,-77.297508,participation in ownership,0,38.2,0,0,0,0,0,0,0,0,0,0
-116,Jordan,JOR,JO,30.585164,36.238414,participation in ownership,0,0,0,0,15.7,0,0,0,0,0,22.6,0
-117,Japan,JPN,JP,36.204824,138.252924,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-118,Kazakhstan,KAZ,KZ,48.019573,66.923684,participation in ownership,34.4,0,0,0,29.6,0,0,0,0,0,30.5,0
-119,Kenya,KEN,KE,-0.023559,37.906193,participation in ownership,0,0,0,0,48.7,0,0,0,0,47.5,0,0
-120,Kyrgyz Republic,KGZ,#N/A,#N/A,#N/A,participation in ownership,60.4,0,0,0,51.2,0,0,0,0,0,45,0
-121,Cambodia,KHM,KH,12.565679,104.990963,participation in ownership,0,0,0,0,0,0,0,46.2,0,0,0,0
-122,Kiribati,KIR,KI,-3.370417,-168.734039,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-123,St. Kitts and Nevis,KNA,#N/A,#N/A,#N/A,participation in ownership,0,57.8,0,0,0,0,0,0,0,0,0,0
-124,"Korea, Rep.",KOR,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-125,Kuwait,KWT,KW,29.31166,47.481766,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-126,Latin America & Caribbean (excluding high income),LAC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,47.5,0
-127,Lao PDR,LAO,#N/A,#N/A,#N/A,participation in ownership,39.3,0,0,41.9,0,0,0,43.1,0,36.5,0,0
-128,Lebanon,LBN,LB,33.854721,35.862285,participation in ownership,33.5,0,0,0,43.5,0,0,0,0,0,9.9,0
-129,Liberia,LBR,LR,6.428055,-9.429499,participation in ownership,53,0,0,0,0,0,0,0,37.4,0,0,0
-130,Libya,LBY,LY,26.3351,17.228331,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-131,St. Lucia,LCA,#N/A,#N/A,#N/A,participation in ownership,0,32.1,0,0,0,0,0,0,0,0,0,0
-132,Latin America & Caribbean,LCN,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,45.41,0
-133,Least developed countries: UN classification,LDC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,28.51351351,0
-134,Low income,LIC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,23.25,0
-135,Liechtenstein,LIE,LI,47.166,9.555373,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-136,Sri Lanka,LKA,LK,7.873054,80.771797,participation in ownership,0,0,26.1,0,0,0,0,0,0,0,0,0
-137,Lower middle income,LMC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,35.17857143,0
-138,Low & middle income,LMY,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,33.43809524,0
-139,Lesotho,LSO,LS,-29.609988,28.233608,participation in ownership,18.4,0,0,0,0,0,0,39.1,0,0,0,0
-140,Late-demographic dividend,LTE,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,38.01388889,0
-141,Lithuania,LTU,LT,55.169438,23.881275,participation in ownership,38.7,0,0,0,35.7,0,0,0,0,0,43.1,0
-142,Luxembourg,LUX,LU,49.815273,6.129583,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-143,Latvia,LVA,LV,56.879635,24.603189,participation in ownership,46.3,0,0,0,41.6,0,0,0,0,0,46.6,0
-144,"Macao SAR, China",MAC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-145,St. Martin (French part),MAF,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-146,Morocco,MAR,MA,31.791702,-7.09262,participation in ownership,0,0,0,0,31.3,0,0,0,0,0,16.1,0
-147,Monaco,MCO,MC,43.750298,7.412841,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-148,Moldova,MDA,MD,47.411631,28.369885,participation in ownership,53.1,0,0,0,54.1,0,0,0,0,0,39.9,0
-149,Madagascar,MDG,MG,-18.766947,46.869107,participation in ownership,50,0,0,0,41.6,0,0,0,0,0,0,0
-150,Maldives,MDV,MV,3.202778,73.22068,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-151,Middle East & North Africa,MEA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,18.99090909,0
-152,Mexico,MEX,MX,23.634501,-102.552784,participation in ownership,0,25.7,0,0,0,0,0,0,0,0,0,0
-153,Marshall Islands,MHL,MH,7.131474,171.184478,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-154,Middle income,MIC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,36.13855422,0
-155,North Macedonia,MKD,#N/A,#N/A,#N/A,participation in ownership,36.4,0,0,0,27.7,0,0,0,0,0,29.3,0
-156,Mali,MLI,ML,17.570692,-3.996166,participation in ownership,0,58.3,0,0,0,0,0,15.3,0,0,0,0
-157,Malta,MLT,MT,35.937496,14.375416,participation in ownership,0,0,0,0,0,0,0,0,0,0,46,0
-158,Myanmar,MMR,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,27.3,0,35.1,0,0,0,0
-159,Middle East & North Africa (excluding high income),MNA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,15.06666667,0
-160,Montenegro,MNE,ME,42.708678,19.37439,participation in ownership,26,0,0,0,25.6,0,0,0,0,0,24,0
-161,Mongolia,MNG,MN,46.862496,103.846656,participation in ownership,52,0,0,0,36.1,0,0,0,0,0,43.7,0
-162,Northern Mariana Islands,MNP,MP,17.33083,145.38469,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-163,Mozambique,MOZ,MZ,-18.665695,35.529562,participation in ownership,0,0,0,0,0,0,0,0,0,28.3,0,0
-164,Mauritania,MRT,MR,21.00789,-10.940835,participation in ownership,0,0,0,0,0,15,0,0,0,0,0,0
-165,Mauritius,MUS,MU,-20.348404,57.552152,participation in ownership,16.9,0,0,0,0,0,0,0,0,0,0,0
-166,Malawi,MWI,MW,-13.254308,34.301525,participation in ownership,23.9,0,0,0,0,28.1,0,0,0,0,0,0
-167,Malaysia,MYS,MY,4.210484,101.975766,participation in ownership,0,0,0,0,0,0,25.4,0,0,0,0,0
-168,North America,NAC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-169,Namibia,NAM,NA,-22.95764,18.49041,participation in ownership,0,0,0,0,0,41,0,0,0,0,0,0
-170,New Caledonia,NCL,NC,-20.904305,165.618042,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-171,Niger,NER,NE,17.607789,8.081666,participation in ownership,17.6,0,0,0,0,0,0,0,14.5,0,0,0
-172,Nigeria,NGA,NG,9.081999,8.675277,participation in ownership,0,0,0,0,0,16.2,0,0,0,0,0,0
-173,Nicaragua,NIC,NI,12.865416,-85.207229,participation in ownership,0,61.9,0,0,0,0,0,35.8,0,0,0,0
-174,Netherlands,NLD,NL,52.132633,5.291266,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-175,Norway,NOR,NO,60.472024,8.468946,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-176,Nepal,NPL,NP,28.394857,84.124008,participation in ownership,27.3,0,0,0,21.8,0,0,0,0,0,0,0
-177,Nauru,NRU,NR,-0.522778,166.931503,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-178,New Zealand,NZL,NZ,-40.900557,174.885971,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-179,OECD members,OED,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,36.94117647,0
-180,Oman,OMN,OM,21.512583,55.923255,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-181,Other small states,OSS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,39.06666667,0
-182,Pakistan,PAK,PK,30.375321,69.345116,participation in ownership,0,0,0,0,11.8,0,0,0,0,0,0,0
-183,Panama,PAN,PA,8.537981,-80.782127,participation in ownership,0,24.7,0,0,0,0,0,0,0,0,0,0
-184,Peru,PER,PE,-9.189967,-75.015152,participation in ownership,0,28.7,0,0,0,0,0,0,56.6,0,0,0
-185,Philippines,PHL,PH,12.879721,121.774017,participation in ownership,69.4,0,0,0,0,0,69.2,0,0,0,0,0
-186,Palau,PLW,PW,7.51498,134.58252,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-187,Papua New Guinea,PNG,PG,-6.314993,143.95555,participation in ownership,0,0,0,0,0,0,46.5,0,0,0,0,0
-188,Poland,POL,PL,51.919438,19.145136,participation in ownership,47.9,0,0,0,40.2,0,0,0,0,0,37,0
-189,Pre-demographic dividend,PRE,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,27.19666667,0
-190,Puerto Rico,PRI,PR,18.220833,-66.590149,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-191,"Korea, Dem. People’s Rep.",PRK,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-192,Portugal,PRT,PT,39.399872,-8.224454,participation in ownership,0,0,0,0,0,0,0,0,0,0,37.8,0
-193,Paraguay,PRY,PY,-23.442503,-58.443832,participation in ownership,0,51.6,0,0,0,0,0,0,66.2,0,0,0
-194,West Bank and Gaza,PSE,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,10.7,0,0,0,0,0,6,0
-195,Pacific island small states,PSS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,47.4,0
-196,Post-demographic dividend,PST,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,38.275,0
-197,French Polynesia,PYF,PF,-17.679742,-149.406843,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-198,Qatar,QAT,QA,25.354826,51.183884,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-199,Romania,ROU,RO,45.943161,24.96676,participation in ownership,47.9,0,0,0,47.2,0,0,0,0,0,32.4,0
-200,Russian Federation,RUS,#N/A,#N/A,#N/A,participation in ownership,33.1,0,0,28.5,0,0,0,0,0,0,34,0
-201,Rwanda,RWA,RW,-1.940278,29.873888,participation in ownership,0,0,42.7,0,0,0,0,0,0,0,26.5,0
-202,South Asia,SAS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,18.37142857,0
-203,Saudi Arabia,SAU,SA,23.885942,45.079162,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-204,Sudan,SDN,SD,12.862807,30.217636,participation in ownership,0,0,0,0,0,8.2,0,0,0,0,0,0
-205,Senegal,SEN,SN,14.497401,-14.452362,participation in ownership,0,0,0,0,0,22.9,0,0,0,0,0,0
-206,Singapore,SGP,SG,1.352083,103.819836,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-207,Solomon Islands,SLB,SB,-9.64571,160.156194,participation in ownership,0,0,0,0,0,0,47.4,0,0,0,0,0
-208,Sierra Leone,SLE,SL,8.460555,-11.779889,participation in ownership,7.9,0,0,0,0,0,0,0,18.8,0,0,0
-209,El Salvador,SLV,SV,13.794185,-88.89653,participation in ownership,0,40.2,0,0,0,0,0,38.4,0,0,0,0
-210,San Marino,SMR,SM,43.94236,12.457777,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-211,Somalia,SOM,SO,5.152149,46.199616,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-212,Serbia,SRB,RS,44.016521,21.005859,participation in ownership,28.8,0,0,0,34.9,0,0,0,0,0,28.5,0
-213,Sub-Saharan Africa (excluding high income),SSA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,30.02,0
-214,South Sudan,SSD,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,21.9,0,0,0,0,0,0
-215,Sub-Saharan Africa,SSF,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,30.02,0
-216,Small states,SST,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,42.62307692,0
-217,Sao Tome and Principe,STP,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-218,Suriname,SUR,SR,3.919305,-56.027783,participation in ownership,0,18.3,0,0,0,0,0,0,0,32.7,0,0
-219,Slovak Republic,SVK,#N/A,#N/A,#N/A,participation in ownership,29.6,0,0,0,29.7,0,0,0,0,0,28.9,0
-220,Slovenia,SVN,SI,46.151241,14.995463,participation in ownership,42.2,0,0,0,38.5,0,0,0,0,0,34.1,0
-221,Sweden,SWE,SE,60.128161,18.643501,participation in ownership,0,0,0,0,0,52.5,0,0,0,0,0,0
-222,Eswatini,SWZ,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,36,0,0,0,0
-223,Sint Maarten (Dutch part),SXM,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-224,Seychelles,SYC,SC,-4.679574,55.491977,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-225,Syrian Arab Republic,SYR,#N/A,#N/A,#N/A,participation in ownership,14.4,0,0,0,0,0,0,0,0,0,0,0
-226,Turks and Caicos Islands,TCA,TC,21.694025,-71.797928,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-227,Chad,TCD,TD,15.454166,18.732207,participation in ownership,40.1,0,0,0,0,0,0,0,0,13.1,0,0
-228,East Asia & Pacific (IDA & IBRD countries),TEA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,47.4,0
-229,Europe & Central Asia (IDA & IBRD countries),TEC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,28.90909091,0
-230,Togo,TGO,TG,8.619543,0.824782,participation in ownership,31.8,0,0,0,0,0,0,25.3,0,0,0,0
-231,Thailand,THA,TH,15.870032,100.992541,participation in ownership,0,0,0,0,0,0,0,64.4,0,0,0,0
-232,Tajikistan,TJK,TJ,38.861034,71.276093,participation in ownership,0,0,0,0,32.5,0,0,0,0,0,22.7,0
-233,Turkmenistan,TKM,TM,38.969719,59.556278,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-234,Latin America & the Caribbean (IDA & IBRD countries),TLA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,45.01785714,0
-235,Timor-Leste,TLS,TL,-8.874217,125.727539,participation in ownership,42.9,0,0,0,0,0,64.4,0,0,0,0,0
-236,Middle East & North Africa (IDA & IBRD countries),TMN,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,16.2,0
-237,Tonga,TON,TO,-21.178986,-175.198242,participation in ownership,65.3,0,0,0,0,0,0,0,0,0,0,0
-238,South Asia (IDA & IBRD),TSA,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,18.37142857,0
-239,Sub-Saharan Africa (IDA & IBRD countries),TSS,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,30.02,0
-240,Trinidad and Tobago,TTO,TT,10.691803,-61.222503,participation in ownership,0,45.1,0,0,0,0,0,0,0,0,0,0
-241,Tunisia,TUN,TN,33.886917,9.537499,participation in ownership,0,0,0,0,49.5,0,0,0,0,0,0,40.1
-242,Turkey,TUR,TR,38.963745,35.243322,participation in ownership,0,0,0,0,25.1,0,0,0,0,0,11.3,0
-243,Tuvalu,TUV,TV,-7.109535,177.64933,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-244,Tanzania,TZA,TZ,-6.369028,34.888822,participation in ownership,0,0,0,0,24.7,0,0,0,0,0,0,0
-245,Uganda,UGA,UG,1.373333,32.290275,participation in ownership,0,0,0,0,26.6,0,0,0,0,0,0,0
-246,Ukraine,UKR,UA,48.379433,31.16558,participation in ownership,0,0,0,0,32.2,0,0,0,0,0,38.6,0
-247,Upper middle income,UMC,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,37.12195122,0
-248,Uruguay,URY,UY,-32.522779,-55.765835,participation in ownership,0,23.1,0,0,0,0,0,0,37,0,0,0
-249,United States,USA,US,37.09024,-95.712891,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-250,Uzbekistan,UZB,UZ,41.377491,64.585262,participation in ownership,0,0,0,0,29,0,0,0,0,0,25.9,0
-251,St. Vincent and the Grenadines,VCT,#N/A,#N/A,#N/A,participation in ownership,0,76,0,0,0,0,0,0,0,0,0,0
-252,"Venezuela, RB",VEN,#N/A,#N/A,#N/A,participation in ownership,0,30.7,0,0,0,0,0,0,0,0,0,0
-253,British Virgin Islands,VGB,VG,18.420695,-64.639968,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-254,Virgin Islands (U.S.),VIR,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-255,Vietnam,VNM,VN,14.058324,108.277199,participation in ownership,59.2,0,0,0,0,0,51.1,0,0,0,0,0
-256,Vanuatu,VUT,VU,-15.376706,166.959158,participation in ownership,51.4,0,0,0,0,0,0,0,0,0,0,0
-257,World,WLD,#N/A,#N/A,#N/A,participation in ownership,0,0,0,0,0,0,0,0,0,0,34.44615385,0
-258,Samoa,WSM,WS,-13.759029,-172.104629,participation in ownership,79.8,0,0,0,0,0,0,0,0,0,0,0
-259,Kosovo,XKX,XK,42.602636,20.902977,participation in ownership,10.9,0,0,0,13.2,0,0,0,0,0,7.3,0
-260,"Yemen, Rep.",YEM,#N/A,#N/A,#N/A,participation in ownership,0,6.4,0,0,6.6,0,0,0,0,0,0,0
-261,South Africa,ZAF,ZA,-30.559482,22.937506,participation in ownership,0,0,0,0,0,0,0,0,0,0,0,0
-262,Zambia,ZMB,ZM,-13.133897,27.849332,participation in ownership,0,0,0,0,43.7,0,0,0,0,0,41.5,0
-263,Zimbabwe,ZWE,ZW,-19.015438,29.154857,participation in ownership,0,0,56.2,0,0,0,0,42.5,0,0,0,0
+,country,country_code,new_code,latitude,longitude,indicator_name,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+0,Aruba,ABW,AW,12.52111,-69.968338,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Afghanistan,AFG,AF,33.93911,67.709953,participation in ownership,0.0,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0
+2,Angola,AGO,AO,-11.202691999999999,17.873887,participation in ownership,0.0,56.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Albania,ALB,AL,41.153332,20.168331,participation in ownership,0.0,0.0,0.0,0.0,13.1,0.0,0.0,0.0,0.0,0.0,20.7,0.0
+4,Andorra,AND,AD,42.546245,1.6015540000000001,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,United Arab Emirates,ARE,AE,23.424076,53.847818000000004,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Argentina,ARG,AR,-38.416097,-63.616671999999994,participation in ownership,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,57.8,0.0,0.0,0.0
+8,Armenia,ARM,AM,40.069099,45.038189,participation in ownership,31.8,0.0,0.0,0.0,24.4,0.0,0.0,0.0,0.0,0.0,0.0,27.4
+9,American Samoa,ASM,AS,-14.270972,-170.132217,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Antigua and Barbuda,ATG,AG,17.060816,-61.796428000000006,participation in ownership,0.0,21.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Australia,AUS,AU,-25.274398,133.775136,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Austria,AUT,AT,47.516231,14.550072,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Azerbaijan,AZE,AZ,40.143105,47.576927000000005,participation in ownership,10.8,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,15.3,0.0
+14,Burundi,BDI,BI,-3.3730559999999996,29.918885999999997,participation in ownership,0.0,0.0,0.0,0.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Belgium,BEL,BE,50.503887,4.469936,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Benin,BEN,BJ,9.30769,2.315834,participation in ownership,45.4,0.0,0.0,0.0,0.0,0.0,0.0,36.7,0.0,0.0,0.0,0.0
+17,Burkina Faso,BFA,BF,12.238333,-1.561593,participation in ownership,19.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Bangladesh,BGD,BD,23.684994,90.35633100000001,participation in ownership,0.0,0.0,0.0,0.0,12.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Bulgaria,BGR,BG,42.733883,25.48583,participation in ownership,33.9,0.0,0.0,0.0,41.5,0.0,0.0,0.0,0.0,0.0,41.7,0.0
+20,Bahrain,BHR,BH,25.930414000000003,50.637772,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Bosnia and Herzegovina,BIH,BA,43.915886,17.679076000000002,participation in ownership,32.8,0.0,0.0,0.0,22.8,0.0,0.0,0.0,0.0,0.0,24.9,0.0
+23,Belarus,BLR,BY,53.709807,27.953389,participation in ownership,0.0,0.0,0.0,0.0,46.2,0.0,0.0,0.0,0.0,45.5,0.0,0.0
+24,Belize,BLZ,BZ,17.189877,-88.49765,participation in ownership,0.0,30.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Bermuda,BMU,BM,32.321384,-64.75737,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Bolivia,BOL,BO,-16.290154,-63.588653,participation in ownership,0.0,41.3,0.0,0.0,0.0,0.0,0.0,0.0,68.6,0.0,0.0,0.0
+27,Brazil,BRA,BR,-14.235004,-51.92528,participation in ownership,50.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Barbados,BRB,BB,13.193887,-59.543198,participation in ownership,0.0,43.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Bhutan,BTN,BT,27.514162,90.433601,participation in ownership,31.3,0.0,0.0,0.0,0.0,0.0,43.3,0.0,0.0,0.0,0.0,0.0
+31,Botswana,BWA,BW,-22.328474,24.684866,participation in ownership,0.0,55.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Central African Republic,CAF,CF,6.611111,20.939444,participation in ownership,0.0,0.0,53.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Canada,CAN,CA,56.130366,-106.34677099999999,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Switzerland,CHE,CH,46.818188,8.227511999999999,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Chile,CHL,CL,-35.675146999999996,-71.542969,participation in ownership,0.0,29.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,China,CHN,CN,35.86166,104.195397,participation in ownership,0.0,0.0,0.0,64.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,Cameroon,CMR,CM,7.369722,12.354722,participation in ownership,15.7,0.0,0.0,0.0,0.0,0.0,0.0,39.7,0.0,0.0,0.0,0.0
+43,Colombia,COL,CO,4.570868,-74.297333,participation in ownership,0.0,35.3,0.0,0.0,0.0,0.0,0.0,0.0,66.9,0.0,0.0,0.0
+44,Comoros,COM,KM,-11.875001,43.872219,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,Costa Rica,CRI,CR,9.748917,-83.753428,participation in ownership,0.0,43.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Cuba,CUB,CU,21.521757,-77.78116700000001,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Cayman Islands,CYM,KY,19.513469,-80.566956,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,Cyprus,CYP,CY,35.126413,33.429859,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.1,0.0
+52,Czech Republic,CZE,CZ,49.817492,15.472961999999999,participation in ownership,25.0,0.0,0.0,0.0,30.4,0.0,0.0,0.0,0.0,0.0,29.9,0.0
+53,Germany,DEU,DE,51.165690999999995,10.451526,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,Djibouti,DJI,DJ,11.825138,42.590275,participation in ownership,0.0,0.0,0.0,0.0,22.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,Dominica,DMA,DM,15.414999,-61.370976,participation in ownership,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Denmark,DNK,DK,56.26392,9.501785,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Dominican Republic,DOM,DO,18.735692999999998,-70.162651,participation in ownership,0.0,30.0,0.0,0.0,0.0,0.0,0.0,32.2,0.0,0.0,0.0,0.0
+58,Algeria,DZA,DZ,28.033886,1.6596259999999998,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Ecuador,ECU,EC,-1.8312389999999998,-78.183406,participation in ownership,0.0,24.1,0.0,0.0,0.0,0.0,0.0,0.0,70.4,0.0,0.0,0.0
+67,Eritrea,ERI,ER,15.179383999999999,39.782334000000006,participation in ownership,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,Spain,ESP,ES,40.463667,-3.7492199999999998,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,Estonia,EST,EE,58.595271999999994,25.013607,participation in ownership,36.3,0.0,0.0,0.0,38.3,0.0,0.0,0.0,0.0,0.0,35.5,0.0
+70,Ethiopia,ETH,ET,9.145,40.489672999999996,participation in ownership,0.0,0.0,35.3,0.0,0.0,0.0,36.2,0.0,0.0,0.0,0.0,0.0
+73,Finland,FIN,FI,61.92411,25.748151,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,Fiji,FJI,FJ,-16.578193,179.414413,participation in ownership,49.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,France,FRA,FR,46.227638,2.213749,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,Faroe Islands,FRO,FO,61.892635,-6.9118059999999995,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,Gabon,GAB,GA,-0.803689,11.609444,participation in ownership,33.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,United Kingdom,GBR,GB,55.378051,-3.435973,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,Georgia,GEO,GE,42.315407,43.356891999999995,participation in ownership,0.0,0.0,0.0,0.0,36.1,0.0,0.0,0.0,0.0,0.0,22.4,0.0
+81,Ghana,GHA,GH,7.946527000000001,-1.0231940000000002,participation in ownership,0.0,0.0,0.0,0.0,31.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,Gibraltar,GIB,GI,36.137741,-5.345374,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,Guinea,GIN,GN,9.945587,-9.696645,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+85,Guinea-Bissau,GNB,GW,11.803749,-15.180413,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,Equatorial Guinea,GNQ,GQ,1.6508009999999997,10.267895,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,Greece,GRC,GR,39.074208,21.824312,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.9,0.0,0.0
+88,Grenada,GRD,GD,12.262775999999999,-61.604170999999994,participation in ownership,0.0,57.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Greenland,GRL,GL,71.706936,-42.604303,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Guatemala,GTM,GT,15.783470999999999,-90.23075899999999,participation in ownership,0.0,44.2,0.0,0.0,0.0,0.0,0.0,0.0,31.5,0.0,0.0,0.0
+91,Guam,GUM,GU,13.444304,144.793731,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,Guyana,GUY,GY,4.860416000000001,-58.93018000000001,participation in ownership,0.0,58.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,Honduras,HND,HN,15.199998999999998,-86.241905,participation in ownership,0.0,43.3,0.0,0.0,0.0,0.0,0.0,54.7,0.0,0.0,0.0,0.0
+97,Croatia,HRV,HR,45.1,15.2,participation in ownership,0.0,0.0,0.0,0.0,36.3,0.0,0.0,0.0,0.0,0.0,31.7,0.0
+98,Haiti,HTI,HT,18.971187,-72.28521500000001,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,Hungary,HUN,HU,47.162494,19.503304,participation in ownership,42.4,0.0,0.0,0.0,48.7,0.0,0.0,0.0,0.0,0.0,51.9,0.0
+104,Indonesia,IDN,ID,-0.789275,113.921327,participation in ownership,42.8,0.0,0.0,0.0,0.0,0.0,22.1,0.0,0.0,0.0,0.0,0.0
+106,Isle of Man,IMN,IM,54.236107,-4.548056,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,India,IND,IN,20.593684,78.96288,participation in ownership,0.0,0.0,0.0,0.0,0.0,10.7,0.0,0.0,0.0,0.0,0.0,0.0
+109,Ireland,IRL,IE,53.41291,-8.243889999999999,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,Iraq,IRQ,IQ,33.223191,43.679291,participation in ownership,0.0,0.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,Iceland,ISL,IS,64.96305100000001,-19.020835,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,Israel,ISR,IL,31.046051000000002,34.851612,participation in ownership,0.0,0.0,0.0,0.0,27.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,Italy,ITA,IT,41.87194,12.56738,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0
+115,Jamaica,JAM,JM,18.109581,-77.297508,participation in ownership,0.0,38.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,Jordan,JOR,JO,30.585164000000002,36.238414,participation in ownership,0.0,0.0,0.0,0.0,15.7,0.0,0.0,0.0,0.0,0.0,22.6,0.0
+117,Japan,JPN,JP,36.204824,138.252924,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,Kazakhstan,KAZ,KZ,48.019573,66.923684,participation in ownership,34.4,0.0,0.0,0.0,29.6,0.0,0.0,0.0,0.0,0.0,30.5,0.0
+119,Kenya,KEN,KE,-0.023559,37.906193,participation in ownership,0.0,0.0,0.0,0.0,48.7,0.0,0.0,0.0,0.0,47.5,0.0,0.0
+121,Cambodia,KHM,KH,12.565679,104.990963,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.2,0.0,0.0,0.0,0.0
+122,Kiribati,KIR,KI,-3.3704169999999998,-168.734039,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,Kuwait,KWT,KW,29.311659999999996,47.481766,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,Lebanon,LBN,LB,33.854721000000005,35.862285,participation in ownership,33.5,0.0,0.0,0.0,43.5,0.0,0.0,0.0,0.0,0.0,9.9,0.0
+129,Liberia,LBR,LR,6.4280550000000005,-9.429499,participation in ownership,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.4,0.0,0.0,0.0
+130,Libya,LBY,LY,26.3351,17.228331,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,Liechtenstein,LIE,LI,47.166000000000004,9.555373,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+136,Sri Lanka,LKA,LK,7.873054,80.77179699999999,participation in ownership,0.0,0.0,26.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,Lesotho,LSO,LS,-29.609988,28.233608,participation in ownership,18.4,0.0,0.0,0.0,0.0,0.0,0.0,39.1,0.0,0.0,0.0,0.0
+141,Lithuania,LTU,LT,55.169438,23.881275,participation in ownership,38.7,0.0,0.0,0.0,35.7,0.0,0.0,0.0,0.0,0.0,43.1,0.0
+142,Luxembourg,LUX,LU,49.815273,6.129583,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,Latvia,LVA,LV,56.879635,24.603189,participation in ownership,46.3,0.0,0.0,0.0,41.6,0.0,0.0,0.0,0.0,0.0,46.6,0.0
+146,Morocco,MAR,MA,31.791702,-7.09262,participation in ownership,0.0,0.0,0.0,0.0,31.3,0.0,0.0,0.0,0.0,0.0,16.1,0.0
+147,Monaco,MCO,MC,43.750298,7.412841,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,Moldova,MDA,MD,47.411631,28.369884999999996,participation in ownership,53.1,0.0,0.0,0.0,54.1,0.0,0.0,0.0,0.0,0.0,39.9,0.0
+149,Madagascar,MDG,MG,-18.766947000000002,46.869107,participation in ownership,50.0,0.0,0.0,0.0,41.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+150,Maldives,MDV,MV,3.202778,73.22068,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,Mexico,MEX,MX,23.634501,-102.552784,participation in ownership,0.0,25.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,Marshall Islands,MHL,MH,7.131474000000001,171.184478,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,Mali,MLI,ML,17.570692,-3.9961660000000006,participation in ownership,0.0,58.3,0.0,0.0,0.0,0.0,0.0,15.3,0.0,0.0,0.0,0.0
+157,Malta,MLT,MT,35.937496,14.375416,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,0.0
+160,Montenegro,MNE,ME,42.708678000000006,19.37439,participation in ownership,26.0,0.0,0.0,0.0,25.6,0.0,0.0,0.0,0.0,0.0,24.0,0.0
+161,Mongolia,MNG,MN,46.862496,103.84665600000001,participation in ownership,52.0,0.0,0.0,0.0,36.1,0.0,0.0,0.0,0.0,0.0,43.7,0.0
+162,Northern Mariana Islands,MNP,MP,17.33083,145.38468999999998,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,Mozambique,MOZ,MZ,-18.665695,35.529562,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.3,0.0,0.0
+164,Mauritania,MRT,MR,21.00789,-10.940835,participation in ownership,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,Mauritius,MUS,MU,-20.348404000000002,57.552152,participation in ownership,16.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,Malawi,MWI,MW,-13.254307999999998,34.301525,participation in ownership,23.9,0.0,0.0,0.0,0.0,28.1,0.0,0.0,0.0,0.0,0.0,0.0
+167,Malaysia,MYS,MY,4.210483999999999,101.97576600000001,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,25.4,0.0,0.0,0.0,0.0,0.0
+170,New Caledonia,NCL,NC,-20.904304999999997,165.618042,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,Niger,NER,NE,17.607789,8.081666,participation in ownership,17.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.5,0.0,0.0,0.0
+172,Nigeria,NGA,NG,9.081999,8.675277000000001,participation in ownership,0.0,0.0,0.0,0.0,0.0,16.2,0.0,0.0,0.0,0.0,0.0,0.0
+173,Nicaragua,NIC,NI,12.865416,-85.207229,participation in ownership,0.0,61.9,0.0,0.0,0.0,0.0,0.0,35.8,0.0,0.0,0.0,0.0
+174,Netherlands,NLD,NL,52.132633,5.291266,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,Norway,NOR,NO,60.472024,8.468946,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,Nepal,NPL,NP,28.394857000000002,84.12400799999999,participation in ownership,27.3,0.0,0.0,0.0,21.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,Nauru,NRU,NR,-0.522778,166.931503,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,New Zealand,NZL,NZ,-40.900557,174.88597099999998,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,Oman,OMN,OM,21.512583,55.923255000000005,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,Pakistan,PAK,PK,30.375321000000003,69.345116,participation in ownership,0.0,0.0,0.0,0.0,11.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,Panama,PAN,PA,8.537981,-80.782127,participation in ownership,0.0,24.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,Peru,PER,PE,-9.189967,-75.015152,participation in ownership,0.0,28.7,0.0,0.0,0.0,0.0,0.0,0.0,56.6,0.0,0.0,0.0
+185,Philippines,PHL,PH,12.879721,121.77401699999999,participation in ownership,69.4,0.0,0.0,0.0,0.0,0.0,69.2,0.0,0.0,0.0,0.0,0.0
+186,Palau,PLW,PW,7.51498,134.58252,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,Papua New Guinea,PNG,PG,-6.314993,143.95555,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,46.5,0.0,0.0,0.0,0.0,0.0
+188,Poland,POL,PL,51.919438,19.145135999999997,participation in ownership,47.9,0.0,0.0,0.0,40.2,0.0,0.0,0.0,0.0,0.0,37.0,0.0
+190,Puerto Rico,PRI,PR,18.220833,-66.590149,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,Portugal,PRT,PT,39.399871999999995,-8.224454,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.8,0.0
+193,Paraguay,PRY,PY,-23.442503,-58.44383199999999,participation in ownership,0.0,51.6,0.0,0.0,0.0,0.0,0.0,0.0,66.2,0.0,0.0,0.0
+197,French Polynesia,PYF,PF,-17.679742,-149.40684299999998,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+198,Qatar,QAT,QA,25.354826,51.183884,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,Romania,ROU,RO,45.943160999999996,24.96676,participation in ownership,47.9,0.0,0.0,0.0,47.2,0.0,0.0,0.0,0.0,0.0,32.4,0.0
+201,Rwanda,RWA,RW,-1.940278,29.873888,participation in ownership,0.0,0.0,42.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.5,0.0
+203,Saudi Arabia,SAU,SA,23.885942,45.079162,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,Sudan,SDN,SD,12.862807,30.217636,participation in ownership,0.0,0.0,0.0,0.0,0.0,8.2,0.0,0.0,0.0,0.0,0.0,0.0
+205,Senegal,SEN,SN,14.497401000000002,-14.452361999999999,participation in ownership,0.0,0.0,0.0,0.0,0.0,22.9,0.0,0.0,0.0,0.0,0.0,0.0
+206,Singapore,SGP,SG,1.352083,103.819836,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,Solomon Islands,SLB,SB,-9.645710000000001,160.156194,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,47.4,0.0,0.0,0.0,0.0,0.0
+208,Sierra Leone,SLE,SL,8.460555000000001,-11.779889,participation in ownership,7.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.8,0.0,0.0,0.0
+209,El Salvador,SLV,SV,13.794185,-88.89653,participation in ownership,0.0,40.2,0.0,0.0,0.0,0.0,0.0,38.4,0.0,0.0,0.0,0.0
+210,San Marino,SMR,SM,43.94236,12.457777,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,Somalia,SOM,SO,5.152149,46.199616,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,Serbia,SRB,RS,44.016521000000004,21.005859,participation in ownership,28.8,0.0,0.0,0.0,34.9,0.0,0.0,0.0,0.0,0.0,28.5,0.0
+218,Suriname,SUR,SR,3.9193050000000005,-56.02778299999999,participation in ownership,0.0,18.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.7,0.0,0.0
+220,Slovenia,SVN,SI,46.151241,14.995463,participation in ownership,42.2,0.0,0.0,0.0,38.5,0.0,0.0,0.0,0.0,0.0,34.1,0.0
+221,Sweden,SWE,SE,60.128161,18.643501,participation in ownership,0.0,0.0,0.0,0.0,0.0,52.5,0.0,0.0,0.0,0.0,0.0,0.0
+224,Seychelles,SYC,SC,-4.679574,55.491977,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,Turks and Caicos Islands,TCA,TC,21.694025,-71.797928,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,Chad,TCD,TD,15.454166,18.732207,participation in ownership,40.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,0.0,0.0
+230,Togo,TGO,TG,8.619543,0.824782,participation in ownership,31.8,0.0,0.0,0.0,0.0,0.0,0.0,25.3,0.0,0.0,0.0,0.0
+231,Thailand,THA,TH,15.870032,100.992541,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.4,0.0,0.0,0.0,0.0
+232,Tajikistan,TJK,TJ,38.861034000000004,71.276093,participation in ownership,0.0,0.0,0.0,0.0,32.5,0.0,0.0,0.0,0.0,0.0,22.7,0.0
+233,Turkmenistan,TKM,TM,38.969719,59.556278000000006,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,Timor-Leste,TLS,TL,-8.874217,125.727539,participation in ownership,42.9,0.0,0.0,0.0,0.0,0.0,64.4,0.0,0.0,0.0,0.0,0.0
+237,Tonga,TON,TO,-21.178986,-175.198242,participation in ownership,65.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,Trinidad and Tobago,TTO,TT,10.691803,-61.222503,participation in ownership,0.0,45.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,Tunisia,TUN,TN,33.886917,9.537499,participation in ownership,0.0,0.0,0.0,0.0,49.5,0.0,0.0,0.0,0.0,0.0,0.0,40.1
+242,Turkey,TUR,TR,38.963745,35.243322,participation in ownership,0.0,0.0,0.0,0.0,25.1,0.0,0.0,0.0,0.0,0.0,11.3,0.0
+243,Tuvalu,TUV,TV,-7.109535,177.64933,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+244,Tanzania,TZA,TZ,-6.369028,34.888822,participation in ownership,0.0,0.0,0.0,0.0,24.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+245,Uganda,UGA,UG,1.373333,32.290275,participation in ownership,0.0,0.0,0.0,0.0,26.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+246,Ukraine,UKR,UA,48.379433,31.16558,participation in ownership,0.0,0.0,0.0,0.0,32.2,0.0,0.0,0.0,0.0,0.0,38.6,0.0
+248,Uruguay,URY,UY,-32.522779,-55.765834999999996,participation in ownership,0.0,23.1,0.0,0.0,0.0,0.0,0.0,0.0,37.0,0.0,0.0,0.0
+249,United States,USA,US,37.09024,-95.712891,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+250,Uzbekistan,UZB,UZ,41.377491,64.585262,participation in ownership,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,25.9,0.0
+253,British Virgin Islands,VGB,VG,18.420695000000002,-64.63996800000001,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,Vietnam,VNM,VN,14.058323999999999,108.277199,participation in ownership,59.2,0.0,0.0,0.0,0.0,0.0,51.1,0.0,0.0,0.0,0.0,0.0
+256,Vanuatu,VUT,VU,-15.376706,166.959158,participation in ownership,51.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,Samoa,WSM,WS,-13.759029,-172.10462900000002,participation in ownership,79.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+259,Kosovo,XKX,XK,42.602636,20.902977,participation in ownership,10.9,0.0,0.0,0.0,13.2,0.0,0.0,0.0,0.0,0.0,7.3,0.0
+261,South Africa,ZAF,ZA,-30.559482,22.937506,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,Zambia,ZMB,ZM,-13.133897,27.849332,participation in ownership,0.0,0.0,0.0,0.0,43.7,0.0,0.0,0.0,0.0,0.0,41.5,0.0
+263,Zimbabwe,ZWE,ZW,-19.015438,29.154857,participation in ownership,0.0,0.0,56.2,0.0,0.0,0.0,0.0,42.5,0.0,0.0,0.0,0.0

@@ -1,265 +1,182 @@
 ,country,country_code,new_code,latitude,longitude,indicator_name,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
-0,Aruba,ABW,AW,12.52111,-69.968338,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-1,Afghanistan,AFG,AF,33.93911,67.709953,firms with female manager,0,0,0,0,0,4.7,0,0,0,0,0,0
-2,Angola,AGO,AO,-11.202692,17.873887,firms with female manager,0,13.5,0,0,0,0,0,0,0,0,0,0
-3,Albania,ALB,AL,41.153332,20.168331,firms with female manager,0,0,0,0,12.2,0,0,0,0,0,18.1,0
-4,Andorra,AND,AD,42.546245,1.601554,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-5,Arab World,ARB,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,5.272727273,0
-6,United Arab Emirates,ARE,AE,23.424076,53.847818,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-7,Argentina,ARG,AR,-38.416097,-63.616672,firms with female manager,0,9.2,0,0,0,0,0,0,8,0,0,0
-8,Armenia,ARM,AM,40.069099,45.038189,firms with female manager,13.5,0,0,0,14.1,0,0,0,0,0,0,19.1
-9,American Samoa,ASM,AS,-14.270972,-170.132217,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-10,Antigua and Barbuda,ATG,AG,17.060816,-61.796428,firms with female manager,0,17.5,0,0,0,0,0,0,0,0,0,0
-11,Australia,AUS,AU,-25.274398,133.775136,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-12,Austria,AUT,AT,47.516231,14.550072,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-13,Azerbaijan,AZE,AZ,40.143105,47.576927,firms with female manager,4.7,0,0,0,2.6,0,0,0,0,0,16.5,0
-14,Burundi,BDI,BI,-3.373056,29.918886,firms with female manager,0,0,0,0,0,16.3,0,0,0,0,0,0
-15,Belgium,BEL,BE,50.503887,4.469936,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-16,Benin,BEN,BJ,9.30769,2.315834,firms with female manager,26.9,0,0,0,0,0,0,25.9,0,0,0,0
-17,Burkina Faso,BFA,BF,12.238333,-1.561593,firms with female manager,11.3,0,0,0,0,0,0,0,0,0,0,0
-18,Bangladesh,BGD,BD,23.684994,90.356331,firms with female manager,0,0,0,0,4.8,0,0,0,0,0,0,0
-19,Bulgaria,BGR,BG,42.733883,25.48583,firms with female manager,25.7,0,0,0,23.5,0,0,0,0,0,28.8,0
-20,Bahrain,BHR,BH,25.930414,50.637772,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-21,"Bahamas, The",BHS,#N/A,#N/A,#N/A,firms with female manager,0,33.2,0,0,0,0,0,0,0,0,0,0
-22,Bosnia and Herzegovina,BIH,BA,43.915886,17.679076,firms with female manager,13.5,0,0,0,16.6,0,0,0,0,0,16.6,0
-23,Belarus,BLR,BY,53.709807,27.953389,firms with female manager,0,0,0,0,32.2,0,0,0,0,21.1,0,0
-24,Belize,BLZ,BZ,17.189877,-88.49765,firms with female manager,0,25.5,0,0,0,0,0,0,0,0,0,0
-25,Bermuda,BMU,BM,32.321384,-64.75737,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-26,Bolivia,BOL,BO,-16.290154,-63.588653,firms with female manager,0,21.7,0,0,0,0,0,0,26.3,0,0,0
-27,Brazil,BRA,BR,-14.235004,-51.92528,firms with female manager,19.4,0,0,0,0,0,0,0,0,0,0,0
-28,Barbados,BRB,BB,13.193887,-59.543198,firms with female manager,0,25.4,0,0,0,0,0,0,0,0,0,0
-29,Brunei Darussalam,BRN,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-30,Bhutan,BTN,BT,27.514162,90.433601,firms with female manager,0,0,0,0,0,0,26.3,0,0,0,0,0
-31,Botswana,BWA,BW,-22.328474,24.684866,firms with female manager,0,16.5,0,0,0,0,0,0,0,0,0,0
-32,Central African Republic,CAF,CF,6.611111,20.939444,firms with female manager,0,0,12.1,0,0,0,0,0,0,0,0,0
-33,Canada,CAN,CA,56.130366,-106.346771,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-34,Central Europe and the Baltics,CEB,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,24.22727273,0
-35,Switzerland,CHE,CH,46.818188,8.227512,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-36,Channel Islands,CHI,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-37,Chile,CHL,CL,-35.675147,-71.542969,firms with female manager,0,4.5,0,0,0,0,0,0,0,0,0,0
-38,China,CHN,CN,35.86166,104.195397,firms with female manager,0,0,0,17.5,0,0,0,0,0,0,0,0
-39,Cote d'Ivoire,CIV,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,14.3,0,0,0,0
-40,Cameroon,CMR,CM,7.369722,12.354722,firms with female manager,10,0,0,0,0,0,0,22.9,0,0,0,0
-41,"Congo, Dem. Rep.",COD,#N/A,#N/A,#N/A,firms with female manager,0,13.7,0,0,10.8,0,0,0,0,0,0,0
-42,"Congo, Rep.",COG,#N/A,#N/A,#N/A,firms with female manager,17.2,0,0,0,0,0,0,0,0,0,0,0
-43,Colombia,COL,CO,4.570868,-74.297333,firms with female manager,0,12.1,0,0,0,0,0,0,18.9,0,0,0
-44,Comoros,COM,KM,-11.875001,43.872219,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-45,Cabo Verde,CPV,#N/A,#N/A,#N/A,firms with female manager,16.7,0,0,0,0,0,0,0,0,0,0,0
-46,Costa Rica,CRI,CR,9.748917,-83.753428,firms with female manager,0,15.4,0,0,0,0,0,0,0,0,0,0
-47,Caribbean small states,CSS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,23.62307692,0
-48,Cuba,CUB,CU,21.521757,-77.781167,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-49,Curacao,CUW,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-50,Cayman Islands,CYM,KY,19.513469,-80.566956,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-51,Cyprus,CYP,CY,35.126413,33.429859,firms with female manager,0,0,0,0,0,0,0,0,0,0,8.2,0
-52,Czech Republic,CZE,CZ,49.817492,15.472962,firms with female manager,18.4,0,0,0,11.3,0,0,0,0,0,16.1,0
-53,Germany,DEU,DE,51.165691,10.451526,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-54,Djibouti,DJI,DJ,11.825138,42.590275,firms with female manager,0,0,0,0,14.2,0,0,0,0,0,0,0
-55,Dominica,DMA,DM,15.414999,-61.370976,firms with female manager,0,23.6,0,0,0,0,0,0,0,0,0,0
-56,Denmark,DNK,DK,56.26392,9.501785,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-57,Dominican Republic,DOM,DO,18.735693,-70.162651,firms with female manager,0,11,0,0,0,0,0,21.2,0,0,0,0
-58,Algeria,DZA,DZ,28.033886,1.659626,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-59,East Asia & Pacific (excluding high income),EAP,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,32.83076923,0
-60,Early-demographic dividend,EAR,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.27111111,0
-61,East Asia & Pacific,EAS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,32.83076923,0
-62,Europe & Central Asia (excluding high income),ECA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,17.7,0
-63,Europe & Central Asia,ECS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,18.85882353,0
-64,Ecuador,ECU,EC,-1.831239,-78.183406,firms with female manager,0,17,0,0,0,0,0,0,22.9,0,0,0
-65,"Egypt, Arab Rep.",EGY,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,7.1,0,0,4.9,0,0,0,6.3
-66,Euro area,EMU,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.35,0
-67,Eritrea,ERI,ER,15.179384,39.782334,firms with female manager,7.6,0,0,0,0,0,0,0,0,0,0,0
-68,Spain,ESP,ES,40.463667,-3.74922,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-69,Estonia,EST,EE,58.595272,25.013607,firms with female manager,25.8,0,0,0,27.6,0,0,0,0,0,22.5,0
-70,Ethiopia,ETH,ET,9.145,40.489673,firms with female manager,0,0,13.6,0,0,0,4.5,0,0,0,0,0
-71,European Union,EUU,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,20.29411765,0
-72,Fragile and conflict affected situations,FCS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,14.68461538,0
-73,Finland,FIN,FI,61.92411,25.748151,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-74,Fiji,FJI,FJ,-16.578193,179.414413,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-75,France,FRA,FR,46.227638,2.213749,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-76,Faroe Islands,FRO,FO,61.892635,-6.911806,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-77,"Micronesia, Fed. Sts.",FSM,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-78,Gabon,GAB,GA,-0.803689,11.609444,firms with female manager,11.5,0,0,0,0,0,0,0,0,0,0,0
-79,United Kingdom,GBR,GB,55.378051,-3.435973,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-80,Georgia,GEO,GE,42.315407,43.356892,firms with female manager,0,0,0,0,32.7,0,0,0,0,0,16.5,0
-81,Ghana,GHA,GH,7.946527,-1.023194,firms with female manager,0,0,0,0,14.9,0,0,0,0,0,0,0
-82,Gibraltar,GIB,GI,36.137741,-5.345374,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-83,Guinea,GIN,GN,9.945587,-9.696645,firms with female manager,0,0,0,0,0,0,0,5.8,0,0,0,0
-84,"Gambia, The",GMB,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,9.6,0,0
-85,Guinea-Bissau,GNB,GW,11.803749,-15.180413,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-86,Equatorial Guinea,GNQ,GQ,1.650801,10.267895,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-87,Greece,GRC,GR,39.074208,21.824312,firms with female manager,0,0,0,0,0,0,0,0,0,17.2,0,0
-88,Grenada,GRD,GD,12.262776,-61.604171,firms with female manager,0,24,0,0,0,0,0,0,0,0,0,0
-89,Greenland,GRL,GL,71.706936,-42.604303,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-90,Guatemala,GTM,GT,15.783471,-90.230759,firms with female manager,0,15.7,0,0,0,0,0,0,18.5,0,0,0
-91,Guam,GUM,GU,13.444304,144.793731,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-92,Guyana,GUY,GY,4.860416,-58.93018,firms with female manager,0,17.7,0,0,0,0,0,0,0,0,0,0
-93,High income,HIC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.316,0
-94,"Hong Kong SAR, China",HKG,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-95,Honduras,HND,HN,15.199999,-86.241905,firms with female manager,0,31.7,0,0,0,0,0,28,0,0,0,0
-96,Heavily indebted poor countries (HIPC),HPC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,15.05806452,0
-97,Croatia,HRV,HR,45.1,15.2,firms with female manager,0,0,0,0,20.1,0,0,0,0,0,27,0
-98,Haiti,HTI,HT,18.971187,-72.285215,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-99,Hungary,HUN,HU,47.162494,19.503304,firms with female manager,13.8,0,0,0,20.7,0,0,0,0,0,22.1,0
-100,IBRD only,IBD,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.23103448,0
-101,IDA & IBRD total,IBT,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,18.49026549,0
-102,IDA total,IDA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,17.70909091,0
-103,IDA blend,IDB,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,20.025,0
-104,Indonesia,IDN,ID,-0.789275,113.921327,firms with female manager,31.2,0,0,0,0,0,22.1,0,0,0,0,0
-105,IDA only,IDX,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,17.0627907,0
-106,Isle of Man,IMN,IM,54.236107,-4.548056,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-107,India,IND,IN,20.593684,78.96288,firms with female manager,0,0,0,0,0,8.9,0,0,0,0,0,0
-108,Not classified,INX,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-109,Ireland,IRL,IE,53.41291,-8.24389,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-110,"Iran, Islamic Rep.",IRN,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-111,Iraq,IRQ,IQ,33.223191,43.679291,firms with female manager,0,0,2.3,0,0,0,0,0,0,0,0,0
-112,Iceland,ISL,IS,64.963051,-19.020835,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-113,Israel,ISR,IL,31.046051,34.851612,firms with female manager,0,0,0,0,10.1,0,0,0,0,0,0,0
-114,Italy,ITA,IT,41.87194,12.56738,firms with female manager,0,0,0,0,0,0,0,0,0,0,15.3,0
-115,Jamaica,JAM,JM,18.109581,-77.297508,firms with female manager,0,24.1,0,0,0,0,0,0,0,0,0,0
-116,Jordan,JOR,JO,30.585164,36.238414,firms with female manager,0,0,0,0,2.4,0,0,0,0,0,3.1,0
-117,Japan,JPN,JP,36.204824,138.252924,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-118,Kazakhstan,KAZ,KZ,48.019573,66.923684,firms with female manager,24.7,0,0,0,19.4,0,0,0,0,0,26,0
-119,Kenya,KEN,KE,-0.023559,37.906193,firms with female manager,0,0,0,0,13.4,0,0,0,0,18.1,0,0
-120,Kyrgyz Republic,KGZ,#N/A,#N/A,#N/A,firms with female manager,23,0,0,0,30.9,0,0,0,0,0,32.9,0
-121,Cambodia,KHM,KH,12.565679,104.990963,firms with female manager,0,0,0,0,0,0,0,57.3,0,0,0,0
-122,Kiribati,KIR,KI,-3.370417,-168.734039,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-123,St. Kitts and Nevis,KNA,#N/A,#N/A,#N/A,firms with female manager,0,21.1,0,0,0,0,0,0,0,0,0,0
-124,"Korea, Rep.",KOR,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-125,Kuwait,KWT,KW,29.31166,47.481766,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-126,Latin America & Caribbean (excluding high income),LAC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,22.20454545,0
-127,Lao PDR,LAO,#N/A,#N/A,#N/A,firms with female manager,0,0,0,32.2,0,0,0,45.3,0,43.1,0,0
-128,Lebanon,LBN,LB,33.854721,35.862285,firms with female manager,29.1,0,0,0,4.4,0,0,0,0,0,5.9,0
-129,Liberia,LBR,LR,6.428055,-9.429499,firms with female manager,29.9,0,0,0,0,0,0,0,20.4,0,0,0
-130,Libya,LBY,LY,26.3351,17.228331,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-131,St. Lucia,LCA,#N/A,#N/A,#N/A,firms with female manager,0,23.7,0,0,0,0,0,0,0,0,0,0
-132,Latin America & Caribbean,LCN,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,21.50333333,0
-133,Least developed countries: UN classification,LDC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,17.02972973,0
-134,Low income,LIC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,11.90909091,0
-135,Liechtenstein,LIE,LI,47.166,9.555373,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-136,Sri Lanka,LKA,LK,7.873054,80.771797,firms with female manager,0,0,8.8,0,0,0,0,0,0,0,0,0
-137,Lower middle income,LMC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,20.12142857,0
-138,Low & middle income,LMY,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,18.28857143,0
-139,Lesotho,LSO,LS,-29.609988,28.233608,firms with female manager,21.6,0,0,0,0,0,0,36.2,0,0,0,0
-140,Late-demographic dividend,LTE,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,21.26666667,0
-141,Lithuania,LTU,LT,55.169438,23.881275,firms with female manager,15.1,0,0,0,22,0,0,0,0,0,30.7,0
-142,Luxembourg,LUX,LU,49.815273,6.129583,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-143,Latvia,LVA,LV,56.879635,24.603189,firms with female manager,31.3,0,0,0,33.9,0,0,0,0,0,32.6,0
-144,"Macao SAR, China",MAC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-145,St. Martin (French part),MAF,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-146,Morocco,MAR,MA,31.791702,-7.09262,firms with female manager,0,0,0,0,4.3,0,0,0,0,0,5.4,0
-147,Monaco,MCO,MC,43.750298,7.412841,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-148,Moldova,MDA,MD,47.411631,28.369885,firms with female manager,20.6,0,0,0,22.4,0,0,0,0,0,18.6,0
-149,Madagascar,MDG,MG,-18.766947,46.869107,firms with female manager,0,0,0,0,28.2,0,0,0,0,0,0,0
-150,Maldives,MDV,MV,3.202778,73.22068,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-151,Middle East & North Africa,MEA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,6.5,0
-152,Mexico,MEX,MX,23.634501,-102.552784,firms with female manager,0,14.6,0,0,0,0,0,0,0,0,0,0
-153,Marshall Islands,MHL,MH,7.131474,171.184478,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-154,Middle income,MIC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.97951807,0
-155,North Macedonia,MKD,#N/A,#N/A,#N/A,firms with female manager,19.1,0,0,0,16.8,0,0,0,0,0,21.3,0
-156,Mali,MLI,ML,17.570692,-3.996166,firms with female manager,0,21,0,0,0,0,0,11.6,0,0,0,0
-157,Malta,MLT,MT,35.937496,14.375416,firms with female manager,0,0,0,0,0,0,0,0,0,0,11.3,0
-158,Myanmar,MMR,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,29.5,0,41.1,0,0,0,0
-159,Middle East & North Africa (excluding high income),MNA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,5.566666667,0
-160,Montenegro,MNE,ME,42.708678,19.37439,firms with female manager,24.5,0,0,0,19.2,0,0,0,0,0,15,0
-161,Mongolia,MNG,MN,46.862496,103.846656,firms with female manager,36.4,0,0,0,31,0,0,0,0,0,38.9,0
-162,Northern Mariana Islands,MNP,MP,17.33083,145.38469,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-163,Mozambique,MOZ,MZ,-18.665695,35.529562,firms with female manager,0,0,0,0,0,0,0,0,0,15.6,0,0
-164,Mauritania,MRT,MR,21.00789,-10.940835,firms with female manager,0,0,0,0,0,4.5,0,0,0,0,0,0
-165,Mauritius,MUS,MU,-20.348404,57.552152,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-166,Malawi,MWI,MW,-13.254308,34.301525,firms with female manager,15.6,0,0,0,0,14.2,0,0,0,0,0,0
-167,Malaysia,MYS,MY,4.210484,101.975766,firms with female manager,0,0,0,0,0,0,26.3,0,0,0,0,0
-168,North America,NAC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-169,Namibia,NAM,NA,-22.95764,18.49041,firms with female manager,0,0,0,0,0,27.4,0,0,0,0,0,0
-170,New Caledonia,NCL,NC,-20.904305,165.618042,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-171,Niger,NER,NE,17.607789,8.081666,firms with female manager,11.3,0,0,0,0,0,0,0,10.6,0,0,0
-172,Nigeria,NGA,NG,9.081999,8.675277,firms with female manager,0,0,0,0,0,13.9,0,0,0,0,0,0
-173,Nicaragua,NIC,NI,12.865416,-85.207229,firms with female manager,0,32.3,0,0,0,0,0,27,0,0,0,0
-174,Netherlands,NLD,NL,52.132633,5.291266,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-175,Norway,NOR,NO,60.472024,8.468946,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-176,Nepal,NPL,NP,28.394857,84.124008,firms with female manager,13.4,0,0,0,17.2,0,0,0,0,0,0,0
-177,Nauru,NRU,NR,-0.522778,166.931503,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-178,New Zealand,NZL,NZ,-40.900557,174.885971,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-179,OECD members,OED,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,17.91176471,0
-180,Oman,OMN,OM,21.512583,55.923255,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-181,Other small states,OSS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,20.13333333,0
-182,Pakistan,PAK,PK,30.375321,69.345116,firms with female manager,0,0,0,0,6,0,0,0,0,0,0,0
-183,Panama,PAN,PA,8.537981,-80.782127,firms with female manager,0,23.5,0,0,0,0,0,0,0,0,0,0
-184,Peru,PER,PE,-9.189967,-75.015152,firms with female manager,0,14.1,0,0,0,0,0,0,19.9,0,0,0
-185,Philippines,PHL,PH,12.879721,121.774017,firms with female manager,32.7,0,0,0,0,0,29.9,0,0,0,0,0
-186,Palau,PLW,PW,7.51498,134.58252,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-187,Papua New Guinea,PNG,PG,-6.314993,143.95555,firms with female manager,0,0,0,0,0,0,13.8,0,0,0,0,0
-188,Poland,POL,PL,51.919438,19.145136,firms with female manager,31.1,0,0,0,20.4,0,0,0,0,0,27.8,0
-189,Pre-demographic dividend,PRE,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,13.69666667,0
-190,Puerto Rico,PRI,PR,18.220833,-66.590149,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-191,"Korea, Dem. People’s Rep.",PRK,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-192,Portugal,PRT,PT,39.399872,-8.224454,firms with female manager,0,0,0,0,0,0,0,0,0,0,14,0
-193,Paraguay,PRY,PY,-23.442503,-58.443832,firms with female manager,0,22.8,0,0,0,0,0,0,19.6,0,0,0
-194,West Bank and Gaza,PSE,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,1.3,0,0,0,0,0,0.9,0
-195,Pacific island small states,PSS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,22.6,0
-196,Post-demographic dividend,PST,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.50625,0
-197,French Polynesia,PYF,PF,-17.679742,-149.406843,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-198,Qatar,QAT,QA,25.354826,51.183884,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-199,Romania,ROU,RO,45.943161,24.96676,firms with female manager,24.7,0,0,0,18.3,0,0,0,0,0,17.2,0
-200,Russian Federation,RUS,#N/A,#N/A,#N/A,firms with female manager,14.3,0,0,20.1,0,0,0,0,0,0,24.3,0
-201,Rwanda,RWA,RW,-1.940278,29.873888,firms with female manager,0,0,19.7,0,0,0,0,0,0,0,21.8,0
-202,South Asia,SAS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,10.95714286,0
-203,Saudi Arabia,SAU,SA,23.885942,45.079162,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-204,Sudan,SDN,SD,12.862807,30.217636,firms with female manager,0,0,0,0,0,3.4,0,0,0,0,0,0
-205,Senegal,SEN,SN,14.497401,-14.452362,firms with female manager,0,0,0,0,0,14.1,0,0,0,0,0,0
-206,Singapore,SGP,SG,1.352083,103.819836,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-207,Solomon Islands,SLB,SB,-9.64571,160.156194,firms with female manager,0,0,0,0,0,0,22.6,0,0,0,0,0
-208,Sierra Leone,SLE,SL,8.460555,-11.779889,firms with female manager,7.1,0,0,0,0,0,0,0,15.9,0,0,0
-209,El Salvador,SLV,SV,13.794185,-88.89653,firms with female manager,0,21.4,0,0,0,0,0,28,0,0,0,0
-210,San Marino,SMR,SM,43.94236,12.457777,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-211,Somalia,SOM,SO,5.152149,46.199616,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-212,Serbia,SRB,RS,44.016521,21.005859,firms with female manager,15.9,0,0,0,15.3,0,0,0,0,0,18.2,0
-213,Sub-Saharan Africa (excluding high income),SSA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,15.48285714,0
-214,South Sudan,SSD,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,9.5,0,0,0,0,0,0
-215,Sub-Saharan Africa,SSF,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,15.48285714,0
-216,Small states,SST,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,21.97307692,0
-217,Sao Tome and Principe,STP,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-218,Suriname,SUR,SR,3.919305,-56.027783,firms with female manager,0,15,0,0,0,0,0,0,0,11.9,0,0
-219,Slovak Republic,SVK,#N/A,#N/A,#N/A,firms with female manager,19.8,0,0,0,14,0,0,0,0,0,22.9,0
-220,Slovenia,SVN,SI,46.151241,14.995463,firms with female manager,15.9,0,0,0,21.9,0,0,0,0,0,18.8,0
-221,Sweden,SWE,SE,60.128161,18.643501,firms with female manager,0,0,0,0,0,12.5,0,0,0,0,0,0
-222,Eswatini,SWZ,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,27.4,0,0,0,0
-223,Sint Maarten (Dutch part),SXM,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-224,Seychelles,SYC,SC,-4.679574,55.491977,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-225,Syrian Arab Republic,SYR,#N/A,#N/A,#N/A,firms with female manager,22.8,0,0,0,0,0,0,0,0,0,0,0
-226,Turks and Caicos Islands,TCA,TC,21.694025,-71.797928,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-227,Chad,TCD,TD,15.454166,18.732207,firms with female manager,6.8,0,0,0,0,0,0,0,0,12,0,0
-228,East Asia & Pacific (IDA & IBRD countries),TEA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,32.83076923,0
-229,Europe & Central Asia (IDA & IBRD countries),TEC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,18.55909091,0
-230,Togo,TGO,TG,8.619543,0.824782,firms with female manager,15.1,0,0,0,0,0,0,11.4,0,0,0,0
-231,Thailand,THA,TH,15.870032,100.992541,firms with female manager,0,0,0,0,0,0,0,64.8,0,0,0,0
-232,Tajikistan,TJK,TJ,38.861034,71.276093,firms with female manager,0,0,0,0,9.1,0,0,0,0,0,6.6,0
-233,Turkmenistan,TKM,TM,38.969719,59.556278,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-234,Latin America & the Caribbean (IDA & IBRD countries),TLA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,20.94642857,0
-235,Timor-Leste,TLS,TL,-8.874217,125.727539,firms with female manager,0,0,0,0,0,0,27,0,0,0,0,0
-236,Middle East & North Africa (IDA & IBRD countries),TMN,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,6.15,0
-237,Tonga,TON,TO,-21.178986,-175.198242,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-238,South Asia (IDA & IBRD),TSA,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,10.95714286,0
-239,Sub-Saharan Africa (IDA & IBRD countries),TSS,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,15.48285714,0
-240,Trinidad and Tobago,TTO,TT,10.691803,-61.222503,firms with female manager,0,20.8,0,0,0,0,0,0,0,0,0,0
-241,Tunisia,TUN,TN,33.886917,9.537499,firms with female manager,0,0,0,0,8.5,0,0,0,0,0,0,10.4
-242,Turkey,TUR,TR,38.963745,35.243322,firms with female manager,0,0,0,0,5.5,0,0,0,0,0,3.9,0
-243,Tuvalu,TUV,TV,-7.109535,177.64933,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-244,Tanzania,TZA,TZ,-6.369028,34.888822,firms with female manager,0,0,0,0,14,0,0,0,0,0,0,0
-245,Uganda,UGA,UG,1.373333,32.290275,firms with female manager,0,0,0,0,15.4,0,0,0,0,0,0,0
-246,Ukraine,UKR,UA,48.379433,31.16558,firms with female manager,0,0,0,0,20.9,0,0,0,0,0,17.7,0
-247,Upper middle income,UMC,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,19.83414634,0
-248,Uruguay,URY,UY,-32.522779,-55.765835,firms with female manager,0,19.4,0,0,0,0,0,0,10.6,0,0,0
-249,United States,USA,US,37.09024,-95.712891,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-250,Uzbekistan,UZB,UZ,41.377491,64.585262,firms with female manager,0,0,0,0,14.9,0,0,0,0,0,12.4,0
-251,St. Vincent and the Grenadines,VCT,#N/A,#N/A,#N/A,firms with female manager,0,38.6,0,0,0,0,0,0,0,0,0,0
-252,"Venezuela, RB",VEN,#N/A,#N/A,#N/A,firms with female manager,0,31.1,0,0,0,0,0,0,0,0,0,0
-253,British Virgin Islands,VGB,VG,18.420695,-64.639968,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-254,Virgin Islands (U.S.),VIR,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-255,Vietnam,VNM,VN,14.058324,108.277199,firms with female manager,26.4,0,0,0,0,0,22.4,0,0,0,0,0
-256,Vanuatu,VUT,VU,-15.376706,166.959158,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-257,World,WLD,#N/A,#N/A,#N/A,firms with female manager,0,0,0,0,0,0,0,0,0,0,18.48615385,0
-258,Samoa,WSM,WS,-13.759029,-172.104629,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-259,Kosovo,XKX,XK,42.602636,20.902977,firms with female manager,0.3,0,0,0,9.3,0,0,0,0,0,2.7,0
-260,"Yemen, Rep.",YEM,#N/A,#N/A,#N/A,firms with female manager,0,0.1,0,0,1.6,0,0,0,0,0,0,0
-261,South Africa,ZAF,ZA,-30.559482,22.937506,firms with female manager,0,0,0,0,0,0,0,0,0,0,0,0
-262,Zambia,ZMB,ZM,-13.133897,27.849332,firms with female manager,0,0,0,0,22.5,0,0,0,0,0,12.9,0
-263,Zimbabwe,ZWE,ZW,-19.015438,29.154857,firms with female manager,0,0,17.4,0,0,0,0,16.3,0,0,0,0
+0,Aruba,ABW,AW,12.52111,-69.968338,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Afghanistan,AFG,AF,33.93911,67.709953,firms with female manager,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0
+2,Angola,AGO,AO,-11.202691999999999,17.873887,firms with female manager,0.0,13.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Albania,ALB,AL,41.153332,20.168331,firms with female manager,0.0,0.0,0.0,0.0,12.2,0.0,0.0,0.0,0.0,0.0,18.1,0.0
+4,Andorra,AND,AD,42.546245,1.6015540000000001,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,United Arab Emirates,ARE,AE,23.424076,53.847818000000004,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Argentina,ARG,AR,-38.416097,-63.616671999999994,firms with female manager,0.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+8,Armenia,ARM,AM,40.069099,45.038189,firms with female manager,13.5,0.0,0.0,0.0,14.1,0.0,0.0,0.0,0.0,0.0,0.0,19.1
+9,American Samoa,ASM,AS,-14.270972,-170.132217,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Antigua and Barbuda,ATG,AG,17.060816,-61.796428000000006,firms with female manager,0.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Australia,AUS,AU,-25.274398,133.775136,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Austria,AUT,AT,47.516231,14.550072,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Azerbaijan,AZE,AZ,40.143105,47.576927000000005,firms with female manager,4.7,0.0,0.0,0.0,2.6,0.0,0.0,0.0,0.0,0.0,16.5,0.0
+14,Burundi,BDI,BI,-3.3730559999999996,29.918885999999997,firms with female manager,0.0,0.0,0.0,0.0,0.0,16.3,0.0,0.0,0.0,0.0,0.0,0.0
+15,Belgium,BEL,BE,50.503887,4.469936,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Benin,BEN,BJ,9.30769,2.315834,firms with female manager,26.9,0.0,0.0,0.0,0.0,0.0,0.0,25.9,0.0,0.0,0.0,0.0
+17,Burkina Faso,BFA,BF,12.238333,-1.561593,firms with female manager,11.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Bangladesh,BGD,BD,23.684994,90.35633100000001,firms with female manager,0.0,0.0,0.0,0.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Bulgaria,BGR,BG,42.733883,25.48583,firms with female manager,25.7,0.0,0.0,0.0,23.5,0.0,0.0,0.0,0.0,0.0,28.8,0.0
+20,Bahrain,BHR,BH,25.930414000000003,50.637772,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Bosnia and Herzegovina,BIH,BA,43.915886,17.679076000000002,firms with female manager,13.5,0.0,0.0,0.0,16.6,0.0,0.0,0.0,0.0,0.0,16.6,0.0
+23,Belarus,BLR,BY,53.709807,27.953389,firms with female manager,0.0,0.0,0.0,0.0,32.2,0.0,0.0,0.0,0.0,21.1,0.0,0.0
+24,Belize,BLZ,BZ,17.189877,-88.49765,firms with female manager,0.0,25.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Bermuda,BMU,BM,32.321384,-64.75737,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Bolivia,BOL,BO,-16.290154,-63.588653,firms with female manager,0.0,21.7,0.0,0.0,0.0,0.0,0.0,0.0,26.3,0.0,0.0,0.0
+27,Brazil,BRA,BR,-14.235004,-51.92528,firms with female manager,19.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Barbados,BRB,BB,13.193887,-59.543198,firms with female manager,0.0,25.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Bhutan,BTN,BT,27.514162,90.433601,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,26.3,0.0,0.0,0.0,0.0,0.0
+31,Botswana,BWA,BW,-22.328474,24.684866,firms with female manager,0.0,16.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Central African Republic,CAF,CF,6.611111,20.939444,firms with female manager,0.0,0.0,12.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Canada,CAN,CA,56.130366,-106.34677099999999,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Switzerland,CHE,CH,46.818188,8.227511999999999,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Chile,CHL,CL,-35.675146999999996,-71.542969,firms with female manager,0.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,China,CHN,CN,35.86166,104.195397,firms with female manager,0.0,0.0,0.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,Cameroon,CMR,CM,7.369722,12.354722,firms with female manager,10.0,0.0,0.0,0.0,0.0,0.0,0.0,22.9,0.0,0.0,0.0,0.0
+43,Colombia,COL,CO,4.570868,-74.297333,firms with female manager,0.0,12.1,0.0,0.0,0.0,0.0,0.0,0.0,18.9,0.0,0.0,0.0
+44,Comoros,COM,KM,-11.875001,43.872219,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,Costa Rica,CRI,CR,9.748917,-83.753428,firms with female manager,0.0,15.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Cuba,CUB,CU,21.521757,-77.78116700000001,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Cayman Islands,CYM,KY,19.513469,-80.566956,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,Cyprus,CYP,CY,35.126413,33.429859,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.2,0.0
+52,Czech Republic,CZE,CZ,49.817492,15.472961999999999,firms with female manager,18.4,0.0,0.0,0.0,11.3,0.0,0.0,0.0,0.0,0.0,16.1,0.0
+53,Germany,DEU,DE,51.165690999999995,10.451526,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,Djibouti,DJI,DJ,11.825138,42.590275,firms with female manager,0.0,0.0,0.0,0.0,14.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,Dominica,DMA,DM,15.414999,-61.370976,firms with female manager,0.0,23.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Denmark,DNK,DK,56.26392,9.501785,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Dominican Republic,DOM,DO,18.735692999999998,-70.162651,firms with female manager,0.0,11.0,0.0,0.0,0.0,0.0,0.0,21.2,0.0,0.0,0.0,0.0
+58,Algeria,DZA,DZ,28.033886,1.6596259999999998,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Ecuador,ECU,EC,-1.8312389999999998,-78.183406,firms with female manager,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,22.9,0.0,0.0,0.0
+67,Eritrea,ERI,ER,15.179383999999999,39.782334000000006,firms with female manager,7.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,Spain,ESP,ES,40.463667,-3.7492199999999998,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,Estonia,EST,EE,58.595271999999994,25.013607,firms with female manager,25.8,0.0,0.0,0.0,27.6,0.0,0.0,0.0,0.0,0.0,22.5,0.0
+70,Ethiopia,ETH,ET,9.145,40.489672999999996,firms with female manager,0.0,0.0,13.6,0.0,0.0,0.0,4.5,0.0,0.0,0.0,0.0,0.0
+73,Finland,FIN,FI,61.92411,25.748151,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,Fiji,FJI,FJ,-16.578193,179.414413,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,France,FRA,FR,46.227638,2.213749,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,Faroe Islands,FRO,FO,61.892635,-6.9118059999999995,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,Gabon,GAB,GA,-0.803689,11.609444,firms with female manager,11.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,United Kingdom,GBR,GB,55.378051,-3.435973,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,Georgia,GEO,GE,42.315407,43.356891999999995,firms with female manager,0.0,0.0,0.0,0.0,32.7,0.0,0.0,0.0,0.0,0.0,16.5,0.0
+81,Ghana,GHA,GH,7.946527000000001,-1.0231940000000002,firms with female manager,0.0,0.0,0.0,0.0,14.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,Gibraltar,GIB,GI,36.137741,-5.345374,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,Guinea,GIN,GN,9.945587,-9.696645,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.8,0.0,0.0,0.0,0.0
+85,Guinea-Bissau,GNB,GW,11.803749,-15.180413,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,Equatorial Guinea,GNQ,GQ,1.6508009999999997,10.267895,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,Greece,GRC,GR,39.074208,21.824312,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.2,0.0,0.0
+88,Grenada,GRD,GD,12.262775999999999,-61.604170999999994,firms with female manager,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Greenland,GRL,GL,71.706936,-42.604303,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Guatemala,GTM,GT,15.783470999999999,-90.23075899999999,firms with female manager,0.0,15.7,0.0,0.0,0.0,0.0,0.0,0.0,18.5,0.0,0.0,0.0
+91,Guam,GUM,GU,13.444304,144.793731,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,Guyana,GUY,GY,4.860416000000001,-58.93018000000001,firms with female manager,0.0,17.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,Honduras,HND,HN,15.199998999999998,-86.241905,firms with female manager,0.0,31.7,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0
+97,Croatia,HRV,HR,45.1,15.2,firms with female manager,0.0,0.0,0.0,0.0,20.1,0.0,0.0,0.0,0.0,0.0,27.0,0.0
+98,Haiti,HTI,HT,18.971187,-72.28521500000001,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,Hungary,HUN,HU,47.162494,19.503304,firms with female manager,13.8,0.0,0.0,0.0,20.7,0.0,0.0,0.0,0.0,0.0,22.1,0.0
+104,Indonesia,IDN,ID,-0.789275,113.921327,firms with female manager,31.2,0.0,0.0,0.0,0.0,0.0,22.1,0.0,0.0,0.0,0.0,0.0
+106,Isle of Man,IMN,IM,54.236107,-4.548056,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,India,IND,IN,20.593684,78.96288,firms with female manager,0.0,0.0,0.0,0.0,0.0,8.9,0.0,0.0,0.0,0.0,0.0,0.0
+109,Ireland,IRL,IE,53.41291,-8.243889999999999,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,Iraq,IRQ,IQ,33.223191,43.679291,firms with female manager,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,Iceland,ISL,IS,64.96305100000001,-19.020835,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,Israel,ISR,IL,31.046051000000002,34.851612,firms with female manager,0.0,0.0,0.0,0.0,10.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,Italy,ITA,IT,41.87194,12.56738,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.3,0.0
+115,Jamaica,JAM,JM,18.109581,-77.297508,firms with female manager,0.0,24.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,Jordan,JOR,JO,30.585164000000002,36.238414,firms with female manager,0.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,3.1,0.0
+117,Japan,JPN,JP,36.204824,138.252924,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,Kazakhstan,KAZ,KZ,48.019573,66.923684,firms with female manager,24.7,0.0,0.0,0.0,19.4,0.0,0.0,0.0,0.0,0.0,26.0,0.0
+119,Kenya,KEN,KE,-0.023559,37.906193,firms with female manager,0.0,0.0,0.0,0.0,13.4,0.0,0.0,0.0,0.0,18.1,0.0,0.0
+121,Cambodia,KHM,KH,12.565679,104.990963,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57.3,0.0,0.0,0.0,0.0
+122,Kiribati,KIR,KI,-3.3704169999999998,-168.734039,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,Kuwait,KWT,KW,29.311659999999996,47.481766,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,Lebanon,LBN,LB,33.854721000000005,35.862285,firms with female manager,29.1,0.0,0.0,0.0,4.4,0.0,0.0,0.0,0.0,0.0,5.9,0.0
+129,Liberia,LBR,LR,6.4280550000000005,-9.429499,firms with female manager,29.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4,0.0,0.0,0.0
+130,Libya,LBY,LY,26.3351,17.228331,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,Liechtenstein,LIE,LI,47.166000000000004,9.555373,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+136,Sri Lanka,LKA,LK,7.873054,80.77179699999999,firms with female manager,0.0,0.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,Lesotho,LSO,LS,-29.609988,28.233608,firms with female manager,21.6,0.0,0.0,0.0,0.0,0.0,0.0,36.2,0.0,0.0,0.0,0.0
+141,Lithuania,LTU,LT,55.169438,23.881275,firms with female manager,15.1,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,30.7,0.0
+142,Luxembourg,LUX,LU,49.815273,6.129583,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,Latvia,LVA,LV,56.879635,24.603189,firms with female manager,31.3,0.0,0.0,0.0,33.9,0.0,0.0,0.0,0.0,0.0,32.6,0.0
+146,Morocco,MAR,MA,31.791702,-7.09262,firms with female manager,0.0,0.0,0.0,0.0,4.3,0.0,0.0,0.0,0.0,0.0,5.4,0.0
+147,Monaco,MCO,MC,43.750298,7.412841,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,Moldova,MDA,MD,47.411631,28.369884999999996,firms with female manager,20.6,0.0,0.0,0.0,22.4,0.0,0.0,0.0,0.0,0.0,18.6,0.0
+149,Madagascar,MDG,MG,-18.766947000000002,46.869107,firms with female manager,0.0,0.0,0.0,0.0,28.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+150,Maldives,MDV,MV,3.202778,73.22068,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,Mexico,MEX,MX,23.634501,-102.552784,firms with female manager,0.0,14.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,Marshall Islands,MHL,MH,7.131474000000001,171.184478,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,Mali,MLI,ML,17.570692,-3.9961660000000006,firms with female manager,0.0,21.0,0.0,0.0,0.0,0.0,0.0,11.6,0.0,0.0,0.0,0.0
+157,Malta,MLT,MT,35.937496,14.375416,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0.0
+160,Montenegro,MNE,ME,42.708678000000006,19.37439,firms with female manager,24.5,0.0,0.0,0.0,19.2,0.0,0.0,0.0,0.0,0.0,15.0,0.0
+161,Mongolia,MNG,MN,46.862496,103.84665600000001,firms with female manager,36.4,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,38.9,0.0
+162,Northern Mariana Islands,MNP,MP,17.33083,145.38468999999998,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,Mozambique,MOZ,MZ,-18.665695,35.529562,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.6,0.0,0.0
+164,Mauritania,MRT,MR,21.00789,-10.940835,firms with female manager,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0
+165,Mauritius,MUS,MU,-20.348404000000002,57.552152,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,Malawi,MWI,MW,-13.254307999999998,34.301525,firms with female manager,15.6,0.0,0.0,0.0,0.0,14.2,0.0,0.0,0.0,0.0,0.0,0.0
+167,Malaysia,MYS,MY,4.210483999999999,101.97576600000001,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,26.3,0.0,0.0,0.0,0.0,0.0
+170,New Caledonia,NCL,NC,-20.904304999999997,165.618042,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,Niger,NER,NE,17.607789,8.081666,firms with female manager,11.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.6,0.0,0.0,0.0
+172,Nigeria,NGA,NG,9.081999,8.675277000000001,firms with female manager,0.0,0.0,0.0,0.0,0.0,13.9,0.0,0.0,0.0,0.0,0.0,0.0
+173,Nicaragua,NIC,NI,12.865416,-85.207229,firms with female manager,0.0,32.3,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0
+174,Netherlands,NLD,NL,52.132633,5.291266,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,Norway,NOR,NO,60.472024,8.468946,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,Nepal,NPL,NP,28.394857000000002,84.12400799999999,firms with female manager,13.4,0.0,0.0,0.0,17.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,Nauru,NRU,NR,-0.522778,166.931503,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,New Zealand,NZL,NZ,-40.900557,174.88597099999998,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,Oman,OMN,OM,21.512583,55.923255000000005,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,Pakistan,PAK,PK,30.375321000000003,69.345116,firms with female manager,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,Panama,PAN,PA,8.537981,-80.782127,firms with female manager,0.0,23.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,Peru,PER,PE,-9.189967,-75.015152,firms with female manager,0.0,14.1,0.0,0.0,0.0,0.0,0.0,0.0,19.9,0.0,0.0,0.0
+185,Philippines,PHL,PH,12.879721,121.77401699999999,firms with female manager,32.7,0.0,0.0,0.0,0.0,0.0,29.9,0.0,0.0,0.0,0.0,0.0
+186,Palau,PLW,PW,7.51498,134.58252,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,Papua New Guinea,PNG,PG,-6.314993,143.95555,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,13.8,0.0,0.0,0.0,0.0,0.0
+188,Poland,POL,PL,51.919438,19.145135999999997,firms with female manager,31.1,0.0,0.0,0.0,20.4,0.0,0.0,0.0,0.0,0.0,27.8,0.0
+190,Puerto Rico,PRI,PR,18.220833,-66.590149,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,Portugal,PRT,PT,39.399871999999995,-8.224454,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0
+193,Paraguay,PRY,PY,-23.442503,-58.44383199999999,firms with female manager,0.0,22.8,0.0,0.0,0.0,0.0,0.0,0.0,19.6,0.0,0.0,0.0
+197,French Polynesia,PYF,PF,-17.679742,-149.40684299999998,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+198,Qatar,QAT,QA,25.354826,51.183884,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,Romania,ROU,RO,45.943160999999996,24.96676,firms with female manager,24.7,0.0,0.0,0.0,18.3,0.0,0.0,0.0,0.0,0.0,17.2,0.0
+201,Rwanda,RWA,RW,-1.940278,29.873888,firms with female manager,0.0,0.0,19.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.8,0.0
+203,Saudi Arabia,SAU,SA,23.885942,45.079162,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,Sudan,SDN,SD,12.862807,30.217636,firms with female manager,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0
+205,Senegal,SEN,SN,14.497401000000002,-14.452361999999999,firms with female manager,0.0,0.0,0.0,0.0,0.0,14.1,0.0,0.0,0.0,0.0,0.0,0.0
+206,Singapore,SGP,SG,1.352083,103.819836,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,Solomon Islands,SLB,SB,-9.645710000000001,160.156194,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,22.6,0.0,0.0,0.0,0.0,0.0
+208,Sierra Leone,SLE,SL,8.460555000000001,-11.779889,firms with female manager,7.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.9,0.0,0.0,0.0
+209,El Salvador,SLV,SV,13.794185,-88.89653,firms with female manager,0.0,21.4,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0
+210,San Marino,SMR,SM,43.94236,12.457777,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,Somalia,SOM,SO,5.152149,46.199616,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,Serbia,SRB,RS,44.016521000000004,21.005859,firms with female manager,15.9,0.0,0.0,0.0,15.3,0.0,0.0,0.0,0.0,0.0,18.2,0.0
+218,Suriname,SUR,SR,3.9193050000000005,-56.02778299999999,firms with female manager,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.9,0.0,0.0
+220,Slovenia,SVN,SI,46.151241,14.995463,firms with female manager,15.9,0.0,0.0,0.0,21.9,0.0,0.0,0.0,0.0,0.0,18.8,0.0
+221,Sweden,SWE,SE,60.128161,18.643501,firms with female manager,0.0,0.0,0.0,0.0,0.0,12.5,0.0,0.0,0.0,0.0,0.0,0.0
+224,Seychelles,SYC,SC,-4.679574,55.491977,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,Turks and Caicos Islands,TCA,TC,21.694025,-71.797928,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,Chad,TCD,TD,15.454166,18.732207,firms with female manager,6.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0
+230,Togo,TGO,TG,8.619543,0.824782,firms with female manager,15.1,0.0,0.0,0.0,0.0,0.0,0.0,11.4,0.0,0.0,0.0,0.0
+231,Thailand,THA,TH,15.870032,100.992541,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.8,0.0,0.0,0.0,0.0
+232,Tajikistan,TJK,TJ,38.861034000000004,71.276093,firms with female manager,0.0,0.0,0.0,0.0,9.1,0.0,0.0,0.0,0.0,0.0,6.6,0.0
+233,Turkmenistan,TKM,TM,38.969719,59.556278000000006,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,Timor-Leste,TLS,TL,-8.874217,125.727539,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0
+237,Tonga,TON,TO,-21.178986,-175.198242,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,Trinidad and Tobago,TTO,TT,10.691803,-61.222503,firms with female manager,0.0,20.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,Tunisia,TUN,TN,33.886917,9.537499,firms with female manager,0.0,0.0,0.0,0.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,10.4
+242,Turkey,TUR,TR,38.963745,35.243322,firms with female manager,0.0,0.0,0.0,0.0,5.5,0.0,0.0,0.0,0.0,0.0,3.9,0.0
+243,Tuvalu,TUV,TV,-7.109535,177.64933,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+244,Tanzania,TZA,TZ,-6.369028,34.888822,firms with female manager,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+245,Uganda,UGA,UG,1.373333,32.290275,firms with female manager,0.0,0.0,0.0,0.0,15.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+246,Ukraine,UKR,UA,48.379433,31.16558,firms with female manager,0.0,0.0,0.0,0.0,20.9,0.0,0.0,0.0,0.0,0.0,17.7,0.0
+248,Uruguay,URY,UY,-32.522779,-55.765834999999996,firms with female manager,0.0,19.4,0.0,0.0,0.0,0.0,0.0,0.0,10.6,0.0,0.0,0.0
+249,United States,USA,US,37.09024,-95.712891,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+250,Uzbekistan,UZB,UZ,41.377491,64.585262,firms with female manager,0.0,0.0,0.0,0.0,14.9,0.0,0.0,0.0,0.0,0.0,12.4,0.0
+253,British Virgin Islands,VGB,VG,18.420695000000002,-64.63996800000001,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,Vietnam,VNM,VN,14.058323999999999,108.277199,firms with female manager,26.4,0.0,0.0,0.0,0.0,0.0,22.4,0.0,0.0,0.0,0.0,0.0
+256,Vanuatu,VUT,VU,-15.376706,166.959158,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,Samoa,WSM,WS,-13.759029,-172.10462900000002,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+259,Kosovo,XKX,XK,42.602636,20.902977,firms with female manager,0.3,0.0,0.0,0.0,9.3,0.0,0.0,0.0,0.0,0.0,2.7,0.0
+261,South Africa,ZAF,ZA,-30.559482,22.937506,firms with female manager,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,Zambia,ZMB,ZM,-13.133897,27.849332,firms with female manager,0.0,0.0,0.0,0.0,22.5,0.0,0.0,0.0,0.0,0.0,12.9,0.0
+263,Zimbabwe,ZWE,ZW,-19.015438,29.154857,firms with female manager,0.0,0.0,17.4,0.0,0.0,0.0,0.0,16.3,0.0,0.0,0.0,0.0
