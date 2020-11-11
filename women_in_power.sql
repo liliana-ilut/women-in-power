@@ -137,24 +137,3 @@ select * from girls_in_power;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-select * from parliament;
-
-
