@@ -6,4 +6,4 @@
     Manisha Shetti,
     Liliana Ilut
 
-![Graffiti](https://media.giphy.com/media/MdpRSfh0TJfW17rnE4/giphy.gif)
+![Women](https://media.giphy.com/media/rHs3ZuhIV25vE9mbuR/giphy.gif)
