@@ -35,7 +35,7 @@ var myMap = L.map("map", {
     var lng = response[i].longitude;
     var addr = response[i].country;
     var name= response[i].indicator_name;
-    var year= response[i].2009;
+    var year= response[i].2019;
    
 
     // Check for location property
@@ -48,7 +48,7 @@ var myMap = L.map("map", {
 
       // Add a new marker to the cluster group and bind a pop-up
       markers.addLayer(L.marker([lat, lng])
-        .bindPopup("<h5>" + "Country: " + "</h5>" + "<h4>" + addr + "</h4> <h5> Indicator name: </h5>" + "<h4>" + name + "</h>"));
+        .bindPopup("<h5>" + "Country: " + "</h5>" + "<h4>" + addr + "</h4> <h5> Indicator name: </h5>" + "<h4>" + year + "</h>" ));
         // .bindPopup(spotString));
       //console.log(response[i].location)
     }
