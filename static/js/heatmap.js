@@ -16,32 +16,73 @@ var myMap = L.map("map", {
   d3.csv("../Data/parliament_seats.csv").then(function(response) {
 //   let url= "/api";
 //   d3.json(url).then(function(response) {
+
   
     console.log(response);
+
+
+
+    // Create a new marker cluster group
+  var markers = L.markerClusterGroup();
+
+  // Loop through data
+  for (var i = 0; i < response.length; i++) {
+    
+    
+
+    // Set the data location property to a variable
+    var lat = response[i].latitude;
+    var lng = response[i].longitude;
+    var addr = response[i].country;
+    var name= response[i].indicator_name;
+    var year= response[i].2009;
+   
+
+    // Check for location property
+    
+      // var locationString = "Latitude: " + lat + ", Longitude:" + lng;
+      // var addressString = "Street Address: " + addr;
+      // var spotString = "Graffiti Spot: " + spot;
+      
   
-    var heatArray = [];
+
+      // Add a new marker to the cluster group and bind a pop-up
+      markers.addLayer(L.marker([lat, lng])
+        .bindPopup("<h5>" + "Country: " + "</h5>" + "<h4>" + addr + "</h4> <h5> Indicator name: </h5>" + "<h4>" + name + "</h>"));
+        // .bindPopup(spotString));
+      //console.log(response[i].location)
+    }
+
   
-    for (var i = 0; i < response.length; i++) {
-      var lat = response[i].latitude;
-      var lng = response[i].longitude;
+
+  // Add our marker cluster layer to the map
+  myMap.addLayer(markers);
+
+});
+  
+//     var heatArray = [];
+  
+//     for (var i = 0; i < response.length; i++) {
+//       var lat = response[i].latitude;
+//       var lng = response[i].longitude;
   
       
-        heatArray.push([lat, lng]);
+//         heatArray.push([lat, lng]);
     
-    }
-    console.log(heatArray);
-    L.heatLayer(heatArray, {
-      radius: 20,
-      blur: 25,
-      gradient: {
-        0.5: 'blue', 
-        0.6: 'purple', 
-        0.2: 'green', 
-        0.9: 'yellow', 
-        1.0: 'red' }
+//     }
+//     console.log(heatArray);
+//     L.heatLayer(heatArray, {
+//       radius: 20,
+//       blur: 25,
+//       gradient: {
+//         0.5: 'blue', 
+//         0.6: 'purple', 
+//         0.2: 'green', 
+//         0.9: 'yellow', 
+//         1.0: 'red' }
   
-    }).addTo(myMap);
+//     }).addTo(myMap);
   
   
    
-  });
+//   });
