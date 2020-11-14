@@ -45,7 +45,7 @@ def index():
 
     # template = env.get_template('index.html')
 
-@app.rounte('/')
+@app.route('/')
 def map():
     return render_template("map.html")
 
