@@ -7,17 +7,17 @@ new_code varchar primary key,
 latitude decimal,
 longitude decimal,
 indicator_name varchar,
-"2009" decimal,
-"2010" decimal,
-"2011" decimal,
-"2012" decimal,
-"2013" decimal,
-"2014" decimal,
-"2015" decimal,
-"2016" decimal,
-"2017" decimal,
-"2018" decimal,
-"2019" decimal
+"year_2009" decimal,
+"year_2010" decimal,
+"year_2011" decimal,
+"year_2012" decimal,
+"year_2013" decimal,
+"year_2014" decimal,
+"year_2015" decimal,
+"year_2016" decimal,
+"year_2017" decimal,
+"year_2018" decimal,
+"year_2019" decimal
 );
 select * from manager;
 -- create table labor
@@ -29,17 +29,17 @@ new_code varchar primary key,
 latitude decimal,
 longitude decimal,
 indicator_name varchar,
-"2009" decimal,
-"2010" decimal,
-"2011" decimal,
-"2012" decimal,
-"2013" decimal,
-"2014" decimal,
-"2015" decimal,
-"2016" decimal,
-"2017" decimal,
-"2018" decimal,
-"2019" decimal
+"year_2009" decimal,
+"year_2010" decimal,
+"year_2011" decimal,
+"year_2012" decimal,
+"year_2013" decimal,
+"year_2014" decimal,
+"year_2015" decimal,
+"year_2016" decimal,
+"year_2017" decimal,
+"year_2018" decimal,
+"year_2019" decimal
 );
 select * from labor;
 
@@ -52,17 +52,17 @@ new_code varchar primary key,
 latitude decimal,
 longitude decimal,
 indicator_name varchar,
-"2009" decimal,
-"2010" decimal,
-"2011" decimal,
-"2012" decimal,
-"2013" decimal,
-"2014" decimal,
-"2015" decimal,
-"2016" decimal,
-"2017" decimal,
-"2018" decimal,
-"2019" decimal
+"year_2009" decimal,
+"year_2010" decimal,
+"year_2011" decimal,
+"year_2012" decimal,
+"year_2013" decimal,
+"year_2014" decimal,
+"year_2015" decimal,
+"year_2016" decimal,
+"year_2017" decimal,
+"year_2018" decimal,
+"year_2019" decimal
 );
 select * from ownership;
 
@@ -75,17 +75,17 @@ new_code varchar primary key,
 latitude decimal,
 longitude decimal,
 indicator_name varchar,
-"2009" decimal,
-"2010" decimal,
-"2011" decimal,
-"2012" decimal,
-"2013" decimal,
-"2014" decimal,
-"2015" decimal,
-"2016" decimal,
-"2017" decimal,
-"2018" decimal,
-"2019" decimal
+"year_2009" decimal,
+"year_2010" decimal,
+"year_2011" decimal,
+"year_2012" decimal,
+"year_2013" decimal,
+"year_2014" decimal,
+"year_2015" decimal,
+"year_2016" decimal,
+"year_2017" decimal,
+"year_2018" decimal,
+"year_2019" decimal
 );
 select * from parliament;
 -- create the union between all tables
@@ -107,17 +107,17 @@ new_code varchar primary key,
 latitude decimal,
 longitude decimal,
 indicator_name varchar,
-"2009" decimal,
-"2010" decimal,
-"2011" decimal,
-"2012" decimal,
-"2013" decimal,
-"2014" decimal,
-"2015" decimal,
-"2016" decimal,
-"2017" decimal,
-"2018" decimal,
-"2019" decimal
+"year_2009" decimal,
+"year_2010" decimal,
+"year_2011" decimal,
+"year_2012" decimal,
+"year_2013" decimal,
+"year_2014" decimal,
+"year_2015" decimal,
+"year_2016" decimal,
+"year_2017" decimal,
+"year_2018" decimal,
+"year_2019" decimal
 );
 
 -- code for reading the merged files into the new table 
@@ -134,6 +134,23 @@ select * from ownership
 union all
 select * from parliament;
 select * from girls_in_power;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
