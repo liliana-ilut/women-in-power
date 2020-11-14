@@ -1,4 +1,4 @@
-country,country_code,new_code,latitude,longitude,indicator_name,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+country,country_code,new_code,latitude,longitude,indicator_name,year_2009,year_2010,year_2011,year_2012,year_2013,year_2014,year_2015,year_2016,year_2017,year_2018,year_2019
 Aruba,ABW,AW,12.52111,-69.968338,participation in ownership,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Afghanistan,AFG,AF,33.93911,67.709953,participation in ownership,0.0,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0
 Angola,AGO,AO,-11.202691999999999,17.873887,participation in ownership,0.0,56.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

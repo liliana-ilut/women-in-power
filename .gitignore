@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 config.py
+config.js
 __pycache__/
 *.py[cod]
 *$py.class
