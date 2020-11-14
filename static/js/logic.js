@@ -19,7 +19,7 @@ var myMap = L.map("map", {
   
   var geojson;
 // let url= "/api";
-d3.csv("../Data/parliament_seats.csv").then(function(data) {
+d3.csv("../Data/girls_in_power.csv").then(function(data) {
 
   console.log(data);
   geojson = L.choropleth(data ,{
