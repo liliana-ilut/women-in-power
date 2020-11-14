@@ -24,7 +24,7 @@ d3.csv("../Data/parliament_seats.csv").then(function(data) {
   console.log(data);
   geojson = L.choropleth(data ,{
     // Define what  property in the features to use
-      country: "MHI2016",
+      country: "Germany",
   
 //       // Set color scale
       scale: ["#ffffb2", "#b10026"],
@@ -50,12 +50,12 @@ d3.csv("../Data/parliament_seats.csv").then(function(data) {
     }).addTo(myMap);
   
 //     // Set up the legend
-//     var legend = L.control({ position: "bottomright" });
-//     legend.onAdd = function() {
-//       var div = L.DomUtil.create("div", "info legend");
-//       var limits = geojson.options.limits;
-//       var colors = geojson.options.colors;
-//       var labels = [];
+    var legend = L.control({ position: "bottomright" });
+    legend.onAdd = function() {
+      var div = L.DomUtil.create("div", "info legend");
+      var limits = geojson.options.limits;
+      var colors = geojson.options.colors;
+      var labels = [];
   
 //       // Add min & max
 //       var legendInfo = "<h1>Median Income</h1>" +
@@ -64,21 +64,21 @@ d3.csv("../Data/parliament_seats.csv").then(function(data) {
 //           "<div class=\"max\">" + limits[limits.length - 1] + "</div>" +
 //         "</div>";
   
-//       div.innerHTML = legendInfo;
+      div.innerHTML = legendInfo;
   
-//       limits.forEach(function(limit, index) {
-//         labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
-//       });
+      limits.forEach(function(limit, index) {
+        labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
+      });
   
-//       div.innerHTML += "<ul>" + labels.join("") + "</ul>";
-//       return div;
-//     };
+      div.innerHTML += "<ul>" + labels.join("") + "</ul>";
+      return div;
+    };
   
-//     // Adding legend to the map
-//     legend.addTo(myMap);
+    // Adding legend to the map
+    legend.addTo(myMap);
   
-//   });
-  })
+  });
+  
 
   
 //   let url= "/api";
