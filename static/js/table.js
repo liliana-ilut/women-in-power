@@ -4,21 +4,21 @@
 d3.csv("../Data/girls_in_power.csv").then(function(data) {
 // d3.json(url).then(function(data) {
   // let data.zipcode = +data.zipcode;
-  // console.log(data.zipcode);
+//   console.log(data.country);
 
 // Variables
 let button = d3.select("#filter-btn");
-let inputField1 = d3.select("#zipcode");
+let inputField1 = d3.select("#country");
 let tbody = d3.select("tbody");
 var resetbtn = d3.select("#reset-btn");
-let columns = ["index","creation_date", "status", "completion_date" ,"surface_type", "graffiti_spot", "address", "zipcode", "ward", "police_district", "community_area", "latitude", "longitude"];
+let columns = ["country","code", "new_code", "latitude" ,"longitude", "indicator_name", "year_2009", "year_2010", "year_2011", "year_2012", "year_2013", "year_2014", "year_2015", "year_2016", "year_2017", "year_2018", "year_2019"];
 
 
 let populate = (dataInput) => {
 
-  dataInput.forEach(graffiti => {
+  dataInput.forEach(women => {
     let row = tbody.append("tr");
-    columns.forEach(column => row.append("td").text(graffiti[column])
+    columns.forEach(column => row.append("td").text(women[column])
     )
   });
 }
@@ -30,16 +30,16 @@ populate(data);
 button.on("click", () => {
   d3.event.preventDefault();
   let inputData = inputField1.property("value").trim();
-  let filterZipCode = data.filter(data => data.zipcode === inputData);
-  console.log(filterZipCode)
+  let filterCountry = data.filter(data => data.country === inputData);
+  console.log(filterCountry)
 
   // Add filtered sighting to table
   tbody.html("");
 
-  let response = {filterZipCode}
+  let response = {filterCountry}
 
-  if (response.filterZipCode.length !== 0) {
-    populate(filterZipCode);
+  if (response.filterCountry.length !== 0) {
+    populate(filterCountry);
   }
     else {
       tbody.append("tr").append("td").text("No results found!"); 

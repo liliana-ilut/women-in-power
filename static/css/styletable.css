@@ -111,10 +111,10 @@ ul #filters{
   .hero {
     position: relative;
     height: 550px;
-    padding: 20px;
+    padding: 10px;
     margin: 0;
     background: black;
-    background-image: url("../img/lovechicago.jpg");
+    background-image: url("../Data/images//yes_women_can.png");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;
