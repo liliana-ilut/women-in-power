@@ -100,6 +100,7 @@ order by indicator_name
 ;
 
 -- create a new table girls in power that will hold the unified tables
+drop table girls_in_power
 create table girls_in_power (
 country varchar,
 code varchar,
