@@ -49,5 +49,8 @@ def index():
 def map():
     return render_template("map2.html")
 
+@app.route('/logistic')
+def map():
+    return render_template("logistic_table.html")
 if __name__ == "__main__": 
     app.run(debug= True)

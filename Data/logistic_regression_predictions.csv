@@ -1,30 +1,30 @@
-Prediction,Actual
-Upper middle income,Low income
-Lower middle income,Low income
-High income,Upper middle income
-High income,High Income
-Upper middle income,Upper middle income
-High income,Low income
-Upper middle income,Low income
-Lower middle income,High Income
-High income,Low income
-High income,Low income
-Low income,Low income
-Upper middle income,Upper middle income
-Low income,Low income
-High income,High Income
-High income,High Income
-High income,Upper middle income
-Upper middle income,Upper middle income
-Upper middle income,Low income
-High income,High Income
-High income,Low income
-Upper middle income,Low income
-Low income,Low income
-High income,Upper middle income
-Lower middle income,High Income
-High income,Upper middle income
-High income,Low income
-Upper middle income,Upper middle income
-High income,Low income
-High income,High Income
+Prediction,Actual,Correct
+Upper middle income,Lower middle income,False
+Lower middle income,Low income,False
+High income,Upper middle income,False
+High income,High Income,False
+Upper middle income,Upper middle income,True
+High income,Lower middle income,False
+Upper middle income,Lower middle income,False
+Lower middle income,High Income,False
+High income,Low income,False
+High income,Lower middle income,False
+Low income,Low income,True
+Upper middle income,Upper middle income,True
+Low income,Lower middle income,False
+High income,High Income,False
+High income,High Income,False
+High income,Upper middle income,False
+Upper middle income,Upper middle income,True
+Upper middle income,Lower middle income,False
+High income,High Income,False
+High income,Low income,False
+Upper middle income,Lower middle income,False
+Low income,Low income,True
+High income,Upper middle income,False
+Lower middle income,High Income,False
+High income,Upper middle income,False
+High income,Low income,False
+Upper middle income,Upper middle income,True
+High income,Lower middle income,False
+High income,High Income,False
