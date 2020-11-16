@@ -88,7 +88,7 @@ ul #filters{
   }
   
   #table-area th {
-    text-align: center;
+    text-align: left;
     background-color: whitesmoke;
     color: black;
   }
@@ -110,13 +110,13 @@ ul #filters{
   /* The styles for the parallax */
   .hero {
     position: relative;
-    height: 550px;
-    padding: 10px;
+    height: 350px;
+    padding: 40px;
     margin: 0;
     background: black;
-    background-image: url("../images/yes_women_can.png");
+    background-image: url("../images/yes_we_can.jpg");
     background-attachment: fixed;
-    background-position: bottom center;
+    background-position: center;
     background-size: cover;
 
   }
