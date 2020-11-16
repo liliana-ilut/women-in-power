@@ -11,7 +11,9 @@ let button = d3.select("#filter-btn");
 let inputField1 = d3.select("#country");
 let tbody = d3.select("tbody");
 var resetbtn = d3.select("#reset-btn");
-let columns = ["country","code", "new_code", "latitude" ,"longitude", "indicator_name", "year_2009", "year_2010", "year_2011", "year_2012", "year_2013", "year_2014", "year_2015", "year_2016", "year_2017", "year_2018", "year_2019"];
+// let columns = ["country","code", "new_code", "latitude" ,"longitude", "indicator_name", "year_2009", "year_2010", "year_2011", "year_2012", "year_2013", "year_2014", "year_2015", "year_2016", "year_2017", "year_2018", "year_2019"];
+let columns = ["country", "indicator_name", "year_2009", "year_2010", "year_2011", "year_2012", "year_2013", "year_2014", "year_2015", "year_2016", "year_2017", "year_2018", "year_2019"];
+
 
 
 let populate = (dataInput) => {
