@@ -58,7 +58,7 @@ function getPlot(c) {
                 title: "Year"},
         
         yaxis: {
-            title: "Women in Parliament Seats",
+            title: "Percentage of Women in Parliament",
            
         },
         margin: {
