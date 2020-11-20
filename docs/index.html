@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
-        <!-- <link rel="stylesheet" href="static/css/style.css"> -->
+        <link rel="stylesheet" href="../static/css/style.css">
 
         <div class="navigation">
             <div class="row">
@@ -18,20 +18,20 @@
               <div class="col-2" style="background-color: black">
                 <a href="index.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Home</strong></a>
               </div>
+              <div class="col-2" style="background-color: black">
+                <a href="table.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Data Table</strong></a>
+              </div> 
+              <div class="col-2" style="background-color: black">
+                <a href="ml.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Machine Learning</strong></a>
+              </div>
                   <div class="col-2" style="background-color: black"> 
-                    <a href="graph.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Lisa</strong></a>
+                    <a href="graph.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Country Graphs</strong></a>
                   </div> 
                    <div class="col-2" style="background-color: black">
-                    <a href="tableau2.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Cory</strong></a>
+                    <a href="tableau.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Time Lapse Map</strong></a>
                   </div> 
                   <div class="col-2" style="background-color: black">
-                    <a href="ml.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Machine Learning</strong></a>
-                  </div>
-                  <div class="col-2" style="background-color: black">
-                    <a href="table.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Table</strong></a>
-                  </div> 
-                  <div class="col-2" style="background-color: black">
-                    <a href="tableau.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Tableau</strong></a>
+                  <a href="tableau2.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Demographics</strong></a>
                   </div> 
                   <!-- <div class="col-2" style="background-color: black"></div> -->
 </head>
@@ -40,9 +40,19 @@
     <div class="container">
 
         <!-- Jumbotron -->
-        <div class="jumbotron text center" style="background-image: url(https://cdn5.vectorstock.com/i/1000x1000/85/29/yes-women-can-symbol-female-power-woman-rights-vector-24758529.jpg); background-size: 100%; height: 600px">
-            <h1 id='demo' style="color:black" >Women in Power</h1>
-            
+        <div class="jumbotron text center" style="background-image: url(../static/images/women_working.png); background-size: 100%; height: 600px">
+          <h1 id='demo' style="color:black";  >Women in Power</h1>
+          <!-- <div class="centered">Centered</div> -->
+        </div>
+        <div class="container">
+          <div class="row">
+            <p>In 2020, the United States will have its first female Vice- President; so we asked ourselves how many countries have women leadership? We used data provided by the world bank that we found on Makeover Monday and supplemental data from <a href="https://data.worldbank.org/ ">Data World Bank </a>that complemented our dataset. 
+              The information contained in our initial dataset gave us percentages by country of women in parliament, women in the labor force, women in leadership roles, and women owned business. The second dataset had many questions regarding different indicators that could affect the initial data presented. We chose to focus on whether or not the country’s constitution had an equality clause and also if that clause was explicit to sex. We also wanted to see if there was a legislative quota and or any quota for women on boards. We were hoping to see some relationships within the data.
+              <li>Larger percentages of women in leadership/parliament showed higher amounts of women in the workforce </li>
+              <li>There was not a number that showed where “x” in parliament meant over 50% of women were in the work force</li>
+                <li>There were more women in the workforce typically if the constitution had an equality clause</li><br>
+              The following pages will illustrate how we arrived at our conclusions. If we had more time, we would have liked to explore the other questions in our supplemental dataset.</p>
+          </div>
         </div>
 
         <div class="container">
