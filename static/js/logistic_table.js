@@ -1,10 +1,7 @@
-// var url = "/api"
-// var url= "https://data.cityofchicago.org/resource/hec5-y4x5.json?$limit=1000"
+
 // Grab the data with d3
 d3.csv("../Data/logistic_regression_predictions.csv").then(function(data) {
-    // d3.json(url).then(function(data) {
-      // let data.zipcode = +data.zipcode;
-    //   console.log(data.country);
+    
     
     // Variables
     let button = d3.select("#filter-btn");

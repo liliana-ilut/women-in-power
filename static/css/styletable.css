@@ -1,4 +1,3 @@
-/* picture image source https://www.bombingscience.com/graffiti-pictures/city/chicago/artist/meeting-of-styles-2014 */
 
 html,
 body {
@@ -6,6 +5,7 @@ body {
   padding: 0;
   margin: 0;
   background-color: rgb(212, 208, 212);
+  color: black;
 }
 
 *{
@@ -16,7 +16,7 @@ body {
 
 /* Make buttons more visible */
   .btn{
-    background-color: rgba(97, 141, 27, 0.322);
+    background-color: black;
     color:rgb(231, 14, 195); 
   }
 
@@ -41,17 +41,27 @@ body {
     left: 0;
     padding: 5px;
     border-top-style: groove; 
-    border-top-color: #618D1B; 
+    border-top-color: black; 
     font-size: 2rem;
   }
   table {
     width: 100%;
+    border-collapse: collapse;
+    /* background-color: ; */
   }
 
   th, td {
-    padding: 15px;
+    padding: 8px;
     text-align: left;
-  }
+    border-bottom: 1px solid #ddd;
+    }
+th {
+    height: 70px;
+    position: sticky;
+    top:0;
+    /* background-color: white; */
+    }
+/* tr:hover {background-color:  white;} */
 
   
   /* .navbar-nav{
@@ -104,7 +114,9 @@ div .panel{
 div .panel-heading{
   background-color: black !important; 
   border-bottom-style: groove !important; 
-  border-bottom-color: black !important; 
+  border-bottom-color: black !important;
+  color:whitesmoke !important;
+  position: relative; 
 }
 div .panel-body{
   background-color: black !important; 
@@ -128,19 +140,25 @@ ul #filters{
     display: block;
     width: 100%;
     padding: 8px;
-    color: #8e979f;
+    color: whitesmoke;
     outline: none;
   }
   
   #table-area th {
     text-align: left;
-    background-color: whitesmoke;
-    color: black;
+    /* background-color: whitesmoke; */
+    /* color: black;  */
+    color: rgb(231, 14, 195);
+    position: sticky;
+    top:0;
+    /* background-color: white; */
   }
+  tr:hover {background-color:  white;}
+
   #table-area tr {
     text-align: left;
     /* background-color: whitesmoke; */
-    color:white;
+    color:black;
     padding: 5px;
     /* position: absolute; */
   }
@@ -148,15 +166,15 @@ ul #filters{
   #table-area th:first-child,
   #table-area th:nth-child(2),
   #table-area th:nth-child(6) {
-    min-width: 70px;
+    min-width: 10px;
   }
   
   .loader {
-    margin-top: 50px;
+    margin-top: 10px;
   }
   
   .margin-top-50 {
-    margin-top: 50px;
+    margin-top: 10px;
   }
   
   /* The styles for the parallax */
@@ -189,29 +207,27 @@ ul #filters{
   /* input placeholder color changes */
   .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: #8e979f;
+    color:  pink;
+    
   }
   
   .form-control::-moz-placeholder {
     /* Firefox 19+ */
-    color: #8e979f;
+    color:  pink;
   }
   
   .form-control:-ms-input-placeholder {
     /* IE 10+ */
-    color: #8e979f;
+    color:  pink;
   }
   
   .form-control:-moz-placeholder {
     /* Firefox 18- */
-    color: #8e979f;
+    color:  pink;
   }
   
 
-  table{
-    border-style: groove; 
-    border-color: black; 
-  }
+  
   /* media queries which will only be activated at specific screen sizes */
   @media (max-width: 800px) {
     #table-area td {
@@ -220,8 +236,9 @@ ul #filters{
   }
 
   
-.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
-   background-color: #1F2D09; 
+/* .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: rgb(212, 208, 212);
+   color: black; 
 }
   
   @media (max-width: 500px) {
@@ -232,18 +249,19 @@ ul #filters{
     #table-area tr td:first-child {
       font-size: 1.8em;
       font-weight: bold;
-      background: #1b3146;
+      color: black;
     }
   
     #table-area tr td:last-child {
       margin-bottom: 20px;
+      color: black;
     }
   
     #table-area tr td:last-child::after {
       display: block;
       width: 100%;
       height: 1px;
-      margin-top: 20px;
+      margin-top: 10px;
       content: " ";
       background: black;
 
@@ -251,30 +269,32 @@ ul #filters{
   
     #table-area td {
       font-size: 1.25em;
+      color: black;
     }
   
     #table-area tbody td {
       display: block;
-      text-align: center;
+      text-align: left;
+      color: black;
     }
   
 
     #table-area tbody td::before {
       display: block;
       font-size: 1.4em;
-      font-weight: bold;
-      text-align: center;
+      text-align: left;
       content: attr(data-th);
+      color: black;
 
-    }
+    } */
   
-    .hero h1 {
+    /* .hero h1 {
       animation: smaller-title 1.2s forwards linear;
     }
-  }
+  } */
   
   footer{
-    background-color: #666666; 
+    background-color: grey; 
     border-top-style: solid; 
     border-top-width: 5px; 
     border-top-color: rgb(231, 14, 195);

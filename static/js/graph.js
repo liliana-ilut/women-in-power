@@ -45,8 +45,6 @@ function getPlot(c) {
         y: [result_2009,result_2010, result_2011, result_2012, result_2013,result_2014, result_2015,result_2016, result_2017,result_2018, result_2019],
         text: selected,
         type: "bar"
-        // color: "red"
-        //orientation: "h",
     };
 
     // create data variable
@@ -71,36 +69,14 @@ function getPlot(c) {
                 title: "Year",
                 titlefont: {
                     "size": 26},
-                // font: {
-                //     // family: "Calibri",
-                //     size: 500,
-                //     color: '#7f7f7f'
-                //   }
                 },
         yaxis: {
             title: "Women in Parliament (%)",
             titlefont: {
                 "size": 26},
-            // font: {
-            //     // family: "Calibri",
-            //     size: 500,
-            //     color: '#7f7f7f'
-            //   }
            
         },
-        // margin: {
-        //     l: 0,
-        //     r: 30,
-        //     t: 30,
-        //     b: 30
-        // },
         colorway : ['#F3CEC9', '#E7A4B6', '#CD7EAF', '#A262A9', '#6F4D96', '#3D3B72', '#182844']
-
-        // , '#CD7EAF', '#A262A9', '#6F4D96', '#3D3B72', '#182844'}
-           
-        // width = 600 - margin.left - margin.right,
-        // height = 270 - margin.top - margin.bottom,
-
     };
 
 
@@ -109,7 +85,7 @@ function getPlot(c) {
 }
 
 function getInfo(c) {
-    // reads json file to gather all the necessary data
+    
     d3.csv("../Data/parliament_seats.csv").then((sampleddata) => {
         
 
