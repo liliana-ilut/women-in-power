@@ -45,6 +45,7 @@ function getPlot(c) {
         y: [result_2009,result_2010, result_2011, result_2012, result_2013,result_2014, result_2015,result_2016, result_2017,result_2018, result_2019],
         text: selected,
         type: "bar",
+        color: "red"
         //orientation: "h",
     };
 
