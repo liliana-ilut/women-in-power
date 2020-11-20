@@ -44,8 +44,8 @@ function getPlot(c) {
         x: ["2009", "2010","2011","2012", "2013","2014", "2015","2016", "2017","2018", "2019"],
         y: [result_2009,result_2010, result_2011, result_2012, result_2013,result_2014, result_2015,result_2016, result_2017,result_2018, result_2019],
         text: selected,
-        type: "bar",
-        color: "red"
+        type: "bar"
+        // color: "red"
         //orientation: "h",
     };
 
@@ -54,20 +54,49 @@ function getPlot(c) {
 
     // // create layout variable to set plots layout
     var layout = {
-        title: c,
+          autosize: false,
+		  width: 750,
+		  height: 750,
+		  margin: {
+			l: 60,
+			r: 30,
+			b: 60,
+			t: 30,
+			pad: 3
+		  },
+        title: c, 
+            
+            
         xaxis: { 
-                title: "Year"},
-        
+                title: "Year",
+                titlefont: {
+                    "size": 26},
+                // font: {
+                //     // family: "Calibri",
+                //     size: 500,
+                //     color: '#7f7f7f'
+                //   }
+                },
         yaxis: {
-            title: "Percentage of Women in Parliament",
+            title: "Women in Parliament (%)",
+            titlefont: {
+                "size": 26},
+            // font: {
+            //     // family: "Calibri",
+            //     size: 500,
+            //     color: '#7f7f7f'
+            //   }
            
         },
-        margin: {
-            l: 50,
-            r: 50,
-            t: 50,
-            b: 50
-        },
+        // margin: {
+        //     l: 0,
+        //     r: 30,
+        //     t: 30,
+        //     b: 30
+        // },
+        colorway : ['#F3CEC9', '#E7A4B6', '#CD7EAF', '#A262A9', '#6F4D96', '#3D3B72', '#182844']
+
+        // , '#CD7EAF', '#A262A9', '#6F4D96', '#3D3B72', '#182844'}
            
         // width = 600 - margin.left - margin.right,
         // height = 270 - margin.top - margin.bottom,
