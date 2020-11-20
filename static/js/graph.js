@@ -6,7 +6,7 @@
 function getPlot(c) {
 
     // get the data from the csv file
-    d3.csv("static/js/parliament_seats.csv").then((sampleddata)=> {
+    d3.csv("../Data/parliament_seats.csv").then((sampleddata)=> {
          console.log(sampleddata)
 
     let selected = c;
@@ -80,7 +80,7 @@ function getPlot(c) {
 
 function getInfo(c) {
     // reads json file to gather all the necessary data
-    d3.csv("static/js/parliament_seats.csv").then((sampleddata) => {
+    d3.csv("../Data/parliament_seats.csv").then((sampleddata) => {
         
 
         // grabs metadata from the metadata variable in the json file
@@ -128,7 +128,7 @@ function init() {
     var dropdown = d3.select("#selDataset");
 
     // read the data 
-    d3.csv("static/js/parliament_seats.csv").then((sampleddata) => {
+    d3.csv("../Data/parliament_seats.csv").then((sampleddata) => {
         //     console.log(sampleddata);
         let country = sampleddata.map(sampleddata => sampleddata.country);
         // get the id data to the dropdwown menu
