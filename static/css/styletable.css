@@ -16,7 +16,8 @@ body {
 
 /* Make buttons more visible */
   .btn{
-    background-color: rgba(97, 141, 27, 0.322); 
+    background-color: rgba(97, 141, 27, 0.322);
+    color:rgb(231, 14, 195); 
   }
 
   @keyframes bounce {
@@ -43,6 +44,15 @@ body {
     border-top-color: #618D1B; 
     font-size: 2rem;
   }
+  table {
+    width: 100%;
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
   
   /* .navbar-nav{
     -webkit-flex-direction: row;
@@ -88,13 +98,13 @@ body {
   
 div .panel{
   border-style: groove; 
-  border-color: #618D1B; 
+  border-color: black; 
 }
 
 div .panel-heading{
   background-color: black !important; 
   border-bottom-style: groove !important; 
-  border-bottom-color: #618D1B !important; 
+  border-bottom-color: black !important; 
 }
 div .panel-body{
   background-color: black !important; 
@@ -127,6 +137,13 @@ ul #filters{
     background-color: whitesmoke;
     color: black;
   }
+  #table-area tr {
+    text-align: left;
+    /* background-color: whitesmoke; */
+    color:white;
+    padding: 5px;
+    /* position: absolute; */
+  }
   
   #table-area th:first-child,
   #table-area th:nth-child(2),
@@ -145,7 +162,7 @@ ul #filters{
   /* The styles for the parallax */
   .hero {
     position: relative;
-    height: 350px;
+    height: 500px;
     padding: 40px;
     margin: 0;
     background: black;
@@ -193,7 +210,7 @@ ul #filters{
 
   table{
     border-style: groove; 
-    border-color: #618D1B; 
+    border-color: black; 
   }
   /* media queries which will only be activated at specific screen sizes */
   @media (max-width: 800px) {
@@ -228,7 +245,7 @@ ul #filters{
       height: 1px;
       margin-top: 20px;
       content: " ";
-      background: aliceblue;
+      background: black;
 
     }
   
