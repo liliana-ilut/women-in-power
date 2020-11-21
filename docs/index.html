@@ -4,8 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   
-    <title>Women in Power</title>
+       <title>Women in Power</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
@@ -39,20 +38,47 @@
 
         <!-- Jumbotron -->
         <div class="jumbotron text center" style="background-image: url(../static/images/women_working.png); background-size: 100%; height: 600px">
-          <h1 id='demo' style="color:black";  >Women in Power</h1>
+       
         </div>
+        <h1  style="text-align:center;color: rgb(231, 14, 195)";>Women in Power</h1><br>
         <div class="container">
           <div class="row">
             <p>In 2020, the United States will have its first female Vice- President; so we asked ourselves how many countries have women leadership? We used data provided by the world bank that we found on Makeover Monday and supplemental data from <a href="https://data.worldbank.org/ ">Data World Bank </a>that complemented our dataset. 
-              The information contained in our initial dataset gave us percentages by country of women in parliament, women in the labor force, women in leadership roles, and women owned business. The second dataset had many questions regarding different indicators that could affect the initial data presented. We chose to focus on whether or not the country’s constitution had an equality clause and also if that clause was explicit to sex. We also wanted to see if there was a legislative quota and or any quota for women on boards. We were hoping to see some relationships within the data.
-              <li>Larger percentages of women in leadership/parliament showed higher amounts of women in the workforce </li>
+              Here are the steps that we followed:</p>
+              <ol>
+                <li> The question we were curious about was did the amount of women in the workforce affect the amount of women in leadership position within a parliamentary government?
+
+                </li>
+                <li>In order to learn about this we found data from Makeover Monday and a supplemental dataset from the world data bank with a series of questions that we culled to assist in our hypothesis that more women in the workforce lead to more women in leadership within parliamentary governments across the globe. We chose dataset spanning 10 years (2009-2019).Our supplemental data only had 1 year worth of questions (2018).
+                
+                </li>
+                <li>We completed the ETL using Pandas within Jupyter Lab and PostgreSQL to merge our datasets. Our visualizations required two versions of our datasets.
+                </li>
+                <li>We created our machine learning model by using Scikit-Learn using linear regression, logistic regression table and a residual plot
+
+                </li>
+                <li>We created visualization using JavaScript D3.js.  We also used HTML/CSS/Bootstrap.</li>
+                <li>We used Tableau to perform the following visualizations:                 
+                  <dd> a. A looping time-lapse illustrating the global growth of women in parliament and workforce over a period of ten years </dd>
+                  
+                  <dd>b.  A map containing global demographics regarding women in parliament, workforce, and company ownership along with other factors that could affect these numbers in 2018.</dd>
+                  
+                  </li></ol>
+               <h4>Observations: </h4><br>
+               <ol start ="1"><li>Larger percentages of women in leadership/parliament showed higher amounts of women in the workforce </li>
               <li>There was not a number that showed where “x” in parliament meant over 50% of women were in the work force</li>
-                <li>There were more women in the workforce typically if the constitution had an equality clause</li><br>
-              The following pages will illustrate how we arrived at our conclusions. If we had more time, we would have liked to explore the other questions in our supplemental dataset.</p>
+                <li>There were more women in the workforce typically if the constitution had an equality clause</li></ol><br>
+              Our dashboard will illustrate how we arrived at our conclusions. Future directions for research would be to explore the other questions in our supplemental dataset.</p>
           </div>
         </div>
-
-        <div class="container">
+        <h4>Meet the Team:</h4>
+        <li><a href="https://www.linkedin.com/in/liliana-ilut/">Liliana Ilut</a></li>
+        <li><a href="www.linkedin.com/in/corrineptacek">Corrine Ptacek</a></li>
+<li><a href="https://www.linkedin.com/in/manisha-shetti/">Manisha Shetti</a></li>
+<li><a href="https://www.linkedin.com/in/weinsteinlisa/">Lisa Weinstein</a></li> 
+<li><a href="https://www.linkedin.com/in/katieannyoung/">Katie Young</a></li><br>              
+<h4>Inspired by</h4><br>
+       <div class="container">
             <div class="row">
                 <!-- Left Image-->
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -65,20 +91,7 @@
                 </div> 
             </div>
         </div>
-        <div class="container">
-          <div class="row">
-              <!-- Left Image-->
-              <div class="col-lg-6 col-md-6 col-sm-12">
-                <iframe src="https://giphy.com/embed/YRWLgeQbimb4Q78azi" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/queen-elizabeth-ii-coronavirus-speech-YRWLgeQbimb4Q78azi">via GIPHY</a></p>
-                  
-                 
-              </div>
-              <div class="col-lg-6 col-md-6 col-sm-12">
-                <iframe src="https://giphy.com/embed/cUIq4MyZk95s35eSTt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/billions-showtime-cUIq4MyZk95s35eSTt">via GIPHY</a></p>
-              </div> 
-          </div>
-      </div>
-
+      
        
             <footer>
               <p style="text-align: center">Women In Power of Data Science Bootcamp <i
