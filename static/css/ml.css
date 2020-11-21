@@ -6,6 +6,13 @@ body{
 .navbar{
   max-height: 57px; 
 }
+
+.wrapper {
+  position: relative;
+  min-height: 100%;
+  padding-bottom: 130px;
+  overflow: auto;
+}
 .navigation .navbar-brand{
   color: white; 
   margin-left: 30px; 
